@@ -1,0 +1,7282 @@
+<sent>
+<class> -1 </class>
+<id> 1 </id>
+notehbook   notehbook
+dell   dell
+lixo   lix
+</sent>
+<sent>
+<class> -1 </class>
+<id> 2 </id>
+telmakalistos   telmakalist
+problema   problem
+notebook   notebook
+estragou   estrag
+justamente   just
+dell   dell
+experiência   experi
+boa   boa
+</sent>
+<sent>
+<class> -1 </class>
+<id> 3 </id>
+odeio   odei
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 4 </id>
+pontofrio   pontofri
+quero   quer
+mandar   mand
+volta   volt
+cancelar   cancel
+compra   compr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 5 </id>
+tmnobre   tmnobr
+nada   nad
+notebook   notebook
+dell   dell
+passei   pass
+muita   muit
+dor   dor
+cabeça   cabeç
+</sent>
+<sent>
+<class> 1 </class>
+<id> 6 </id>
+irma_zuleide   irma_zuleid
+notebook   notebook
+gosto   gost
+marca   marc
+dell   dell
+sites   sit
+próprio   própri
+site   sit
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 7 </id>
+volta   volt
+pra   pra
+mim   mim
+notebook   notebook
+dell   dell
+lindo   lind
+sinto   sint
+falta   falt
+apertar   apert
+teclas   tecl
+</sent>
+<sent>
+<class> -1 </class>
+<id> 8 </id>
+comprar   compr
+memória   memór
+pro   pro
+notebook   notebook
+impossível   imposs
+jeito   jeit
+reclamar   reclam
+dell   dell
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/14509101/dell-computadores-do-brasil/impossivel-adicionar-memoria-ao-notebook/   //www.reclameaqui.com.br/14509101/dell-computadores-do-brasil/impossivel-adicionar-memoria-ao-notebook/
+dellnobrasil   dellnobrasil
+dell   dell
+dellajuda   dellajud
+</sent>
+<sent>
+<class> 1 </class>
+<id> 9 </id>
+notebook   notebook
+dell   dell
+falantes   fal
+jbl   jbl
+show   show
+troquei   troq
+hp   hp
+beats   beat
+fuén   fuén
+</sent>
+<sent>
+<class> -1 </class>
+<id> 10 </id>
+merda   merd
+notebook   notebook
+dell   dell
+bosta   bost
+</sent>
+<sent>
+<class> 1 </class>
+<id> 11 </id>
+vou   vou
+trocar   troc
+</sent>
+<sent>
+<class> -1 </class>
+<id> 12 </id>
+extremamente   extrem
+insatisfeita   insatisfeit
+notebook   notebook
+dell   dell
+novo   nov
+</sent>
+<sent>
+<class> -1 </class>
+<id> 13 </id>
+dell   dell
+viu   viu
+nome   nom
+vendeu   vend
+notebook   notebook
+defeito   defeit
+</sent>
+<sent>
+<class> 1 </class>
+<id> 14 </id>
+hey_mika   hey_mik
+acredite   acredit
+dell   dell
+poucas   pouc
+marcas   marc
+notebook   notebook
+ainda   aind
+prestam   prest
+notebook   notebook
+hp   hp
+obsensor   obsen
+wi   wi
+fi   fi
+derretia   derret
+</sent>
+<sent>
+<class> -1 </class>
+<id> 15 </id>
+notebook   notebook
+atual   atual
+veio   vei
+antivírus   antivíru
+mcafee   mcafe
+deus   deu
+ruim   ruim
+dell   dell
+trocou   troc
+norton   norton
+</sent>
+<sent>
+<class> 1 </class>
+<id> 16 </id>
+notebook   notebook
+dell   dell
+tela   tel
+linda   lind
+</sent>
+<sent>
+<class> -1 </class>
+<id> 17 </id>
+quero   quer
+comprar   compr
+notebook   notebook
+novo   nov
+</sent>
+<sent>
+<class> 1 </class>
+<id> 18 </id>
+dellnobrasil   dellnobrasil
+compraria   compr
+fácil   fácil
+celular   celul
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 19 </id>
+fácil   fácil
+</sent>
+<sent>
+<class> -1 </class>
+<id> 20 </id>
+alo   alo
+dell   dell
+notebook   notebook
+nicollechidiac   nicollechidiac
+ta   ta
+problema   problem
+modelo   model
+aqui   aqu
+link   link
+permanente   permanent
+imagem   imag
+incorporada   incorpor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 21 </id>
+notebook   notebook
+3mil   3mil
+dar   dar
+problema   problem
+conectar   conect
+wi-fi   wi-f
+aff   aff
+maria   mar
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 22 </id>
+acho   ach
+nessa   ness
+semana   seman
+técnico   técn
+dell   dell
+vem   vem
+buscar   busc
+notebook   notebook
+trazer   traz
+novo   nov
+-amém-   -amém-
+</sent>
+<sent>
+<class> -1 </class>
+<id> 23 </id>
+notebook   notebook
+ficou   fic
+zoado   zo
+desde   desd
+dell   dell
+instalou   instal
+negócio   negóci
+reconhecer   reconhec
+rosto   rost
+ódio   ódi
+</sent>
+<sent>
+<class> 1 </class>
+<id> 24 </id>
+olhardigital   olhardigit
+boa   boa
+edição   ediç
+escolha   escolh
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 25 </id>
+aguardando   aguard
+agora   agor
+assistência   assist
+24h   24h
+dell   dell
+dellbrazil   dellbrazil
+prazos   praz
+cumprir   cumpr
+notebook   notebook
+parado   par
+</sent>
+<sent>
+<class> 1 </class>
+<id> 26 </id>
+sim   sim
+notebook   notebook
+poderia   pod
+ser   ser
+fino   fin
+leve   lev
+http   http
+//fb.me/44yklpzz3   //fb.me/44yklpzz3
+</sent>
+<sent>
+<class> -1 </class>
+<id> 27 </id>
+pessoa   pesso
+compra   compr
+notebook   notebook
+obrigado   obrig
+comprar   compr
+mouse   mous
+pq   pq
+touchpad   touchpad
+vale   val
+bosta   bost
+cce   cce
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 28 </id>
+perguntar   pergunt
+ofende   ofend
+quê   quê
+dell   dell
+vende   vend
+notebook   notebook
+sistema   sistem
+operacional   operac
+ubuntu   ubuntu
+caro   car
+notebook   notebook
+windows   window
+8.1   8.1
+</sent>
+<sent>
+<class> -1 </class>
+<id> 29 </id>
+opções   opç
+laptop   laptop
+mag   mag
+indicaram   indic
+dell   dell
+xps   xp
+13   13
+notebook   notebook
+horroroso   horror
+questões   quest
+design   design
+</sent>
+<sent>
+<class> 1 </class>
+<id> 30 </id>
+notebook   notebook
+latitude   latitud
+dell   dell
+hd   hd
+substituido   substitu
+formatado   format
+sucesso   sucess
+windows   window
+7   7
+64bit   64bit
+cliente   client
+satisfeito   satisfeit
+</sent>
+<sent>
+<class> -1 </class>
+<id> 31 </id>
+tenta   tent
+voltar   volt
+notebook   notebook
+dell   dell
+windows   window
+10   10
+windows   window
+8.1   8.1
+</sent>
+<sent>
+<class> -1 </class>
+<id> 32 </id>
+nunca   nunc
+compro   compr
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 33 </id>
+olho   olh
+pro   pro
+notebook   notebook
+agora   agor
+amaldiçôo   amaldiçô
+ter   ter
+comprado   compr
+asus   asu
+</sent>
+<sent>
+<class> 1 </class>
+<id> 34 </id>
+venho   venh
+meio   mei
+desse   dess
+tweet   tweet
+q   q
+notebook   notebook
+dell   dell
+melhor   melhor
+</sent>
+<sent>
+<class> 1 </class>
+<id> 35 </id>
+notebook   notebook
+positivo   posi
+péssimo   péss
+</sent>
+<sent>
+<class> 1 </class>
+<id> 36 </id>
+finalmente   final
+comprei   compr
+novo   nov
+notebook   notebook
+dell   dell
+i7   i7
+segunda-feira   segunda-f
+vai   vai
+ser   ser
+muahahaahaja   muahahaahaj
+0   0
+retweet   retweet
+1   1
+curtiu   curt
+responder   respond
+retweetar   retweet
+curtir   curt
+1   1
+</sent>
+<sent>
+<class> -1 </class>
+<id> 37 </id>
+acha   ach
+dell   dell
+notebooks   notebook
+qualidade   qual
+superior   superi
+</sent>
+<sent>
+<class> -1 </class>
+<id> 38 </id>
+tiro   tir
+baidu   baidu
+hao123   hao123
+br123   br123
+jogo   jog
+fuleco   fulec
+isurf   isurf
+webssearch   webssearch
+consigo   consig
+formatar   format
+notebook   notebook
+dell   dell
+dellnobrasil   dellnobrasil
+</sent>
+<sent>
+<class> -1 </class>
+<id> 39 </id>
+nunca   nunc
+pensei   pens
+tão   tão
+difícil   difícil
+</sent>
+<sent>
+<class> -1 </class>
+<id> 40 </id>
+opiomorph   opiomorph
+mattoi_   mattoi_
+fiz   fiz
+backup   backup
+clean   clean
+install   install
+notebook   notebook
+novo   nov
+mãe   mãe
+veio   vei
+ruim   ruim
+fábrica   fábr
+cheio   chei
+daqueles   daquel
+programas   program
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 41 </id>
+acabei   acab
+ganhar   ganh
+presentão   present
+alencarfisio   alencarfisi
+notebook   notebook
+novinho   nov
+bem   bem
+top   top
+dell   dell
+0   0
+retweet   retweet
+3   3
+curtiram   curt
+responder   respond
+retweetar   retweet
+curtir   curt
+3   3
+</sent>
+<sent>
+<class> -1 </class>
+<id> 42 </id>
+td   td
+queria   quer
+notebook   notebook
+sério   séri
+nunca   nunc
+pedi   ped
+nada   nad
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 43 </id>
+nunca   nunc
+comprem   compr
+notebook   notebook
+loja   loj
+http   http
+//ln.is/www.dell.com.br/hrryc   //ln.is/www.dell.com.br/hrryc
+</sent>
+<sent>
+<class> -1 </class>
+<id> 44 </id>
+finalmente   final
+comprei   compr
+notebook   notebook
+amém   amém
+senhor   senh
+finalmente   final
+comprei   compr
+samsung   samsung
+msm   msm
+pq   pq
+dell   dell
+ta   ta
+caro   car
+0   0
+retweet   retweet
+1   1
+curtiu   curt
+responder   respond
+retweetar   retweet
+curtir   curt
+1   1
+</sent>
+<sent>
+<class> -1 </class>
+<id> 45 </id>
+dell   dell
+notebook   notebook
+estrutura   estrut
+fraca   frac
+</sent>
+<sent>
+<class> 1 </class>
+<id> 46 </id>
+comprar   compr
+notebook   notebook
+lembrem   lembr
+comprar   compr
+dell   dell
+garantia   garant
+domicílio   domicíli
+</sent>
+<sent>
+<class> 1 </class>
+<id> 47 </id>
+chegou   cheg
+alegriadecriança   alegriadecrianç
+dell   dell
+latitude3450   latitude3450
+pc   pc
+notebook   notebook
+ggwp   ggwp
+happy   happy
+https   http
+//instagram.com/p/6hv_5_cfdk/   //instagram.com/p/6hv_5_cfdk/
+</sent>
+<sent>
+<class> 1 </class>
+<id> 48 </id>
+transforma   transform
+fusca   fusc
+ferrari   ferrar
+</sent>
+<sent>
+<class> -1 </class>
+<id> 49 </id>
+dell   dell
+vem   vem
+logo   log
+arrumar   arrum
+notebook   notebook
+pfvrzinho   pfvr
+</sent>
+<sent>
+<class> 1 </class>
+<id> 50 </id>
+notebook   notebook
+deu   deu
+probleminha   probl
+</sent>
+<sent>
+<class> 1 </class>
+<id> 51 </id>
+cegonha   cegonh
+trouxe   troux
+bebê   bebê
+seje   sej
+dell   dell
+entregou   entreg
+notebook   notebook
+novo   nov
+chorano   chor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 52 </id>
+to   to
+1   1
+hora   hor
+dell   dell
+telefone   telefon
+espero   esper
+resolva   resolv
+problema   problem
+notebook   notebook
+ngm   ngm
+merece   merec
+comprar   compr
+semana   seman
+dps   dp
+estragar   estrag
+</sent>
+<sent>
+<class> 1 </class>
+<id> 53 </id>
+vim   vim
+aqui   aqu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 54 </id>
+seguinte   seguint
+notebook   notebook
+dell   dell
+n4030   n4030
+dando   dand
+problema   problem
+</sent>
+<sent>
+<class> -1 </class>
+<id> 55 </id>
+to   to
+iradoo   irado
+</sent>
+<sent>
+<class> 1 </class>
+<id> 56 </id>
+logo   log
+precioso   precios
+notebook   notebook
+dell   dell
+lindíssimo   lind
+chega   cheg
+aqui   aqu
+casa   cas
+tô   tô
+mt   mt
+feliz   feliz
+</sent>
+<sent>
+<class> -1 </class>
+<id> 57 </id>
+ai   ai
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 58 </id>
+dell   dell
+alguém   alguém
+consegue   conseg
+explicar   explic
+consigo   consig
+aumentar   aument
+diminuir   diminu
+brilho   brilh
+notebook   notebook
+obrigado   obrig
+</sent>
+<sent>
+<class> -1 </class>
+<id> 59 </id>
+dell   dell
+notebook   notebook
+inspiron   inspiron
+n4050   n4050
+seguinte   seguint
+erro   err
+hd   hd
+error   err
+code   cod
+2000.0142   2000.0142
+validation   validation
+37296   37296
+self   self
+test   test
+unsuccessful   unsuccessful
+status:7   status:7
+soluções   soluç
+</sent>
+<sent>
+<class> 1 </class>
+<id> 60 </id>
+computronnews   computronnew
+yovoyacomputron   yovoyacomputron
+linda   lind
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 61 </id>
+apaixonada   apaixon
+notebook   notebook
+dell   dell
+notebook   notebook
+infostoreba   infostoreb
+infostorecomputadores   infostorecomput
+https   http
+//instagram.com/p/6fvso8ougn/   //instagram.com/p/6fvso8ougn/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 62 </id>
+diegobferreira   diegobferr
+ah   ah
+sim   sim
+experimenta   experiment
+comprar   compr
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 63 </id>
+notebook   notebook
+bom   bom
+obrigado   obrig
+dell   dell
+pena   pen
+mesa   mes
+quase   quas
+suficiente   sufici
+pra   pra
+ter   ter
+tv   tv
+</sent>
+<sent>
+<class> -1 </class>
+<id> 64 </id>
+ancinegovbr   ancinegovbr
+vejam   vej
+bem   bem
+</sent>
+<sent>
+<class> -1 </class>
+<id> 65 </id>
+entrei   entr
+chat   chat
+dell   dell
+p   p
+ve   ve
+negócio   negóci
+notebook   notebook
+10   10
+porra   porr
+</sent>
+<sent>
+<class> 1 </class>
+<id> 66 </id>
+notebook   notebook
+bom   bom
+dell   dell
+so   so
+deu   deu
+problema   problem
+pq   pq
+queimou   queim
+causa   caus
+blackout   blackout
+</sent>
+<sent>
+<class> -1 </class>
+<id> 67 </id>
+notebook   notebook
+dell   dell
+fica   fic
+conectado   conect
+carregador   carreg
+</sent>
+<sent>
+<class> -1 </class>
+<id> 68 </id>
+problemas   problem
+eletrônicos   eletrôn
+aparecem   aparec
+acaba   acab
+garantia   garant
+</sent>
+<sent>
+<class> -1 </class>
+<id> 69 </id>
+paguei   pag
+2800   2800
+notebook   notebook
+dell   dell
+durou   dur
+ano   ano
+meio   mei
+</sent>
+<sent>
+<class> -1 </class>
+<id> 70 </id>
+queria   quer
+poder   pod
+devolver   devolv
+bomba   bomb
+notebook   notebook
+dell   dell
+pegar   peg
+acer   ac
+arrependo   arrep
+amargamente   amarg
+</sent>
+<sent>
+<class> -1 </class>
+<id> 71 </id>
+dúvida   dúv
+existencial   exist
+vou   vou
+parar   par
+reclamar   reclam
+dell   dell
+arrumarem   arrum
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 72 </id>
+lembra   lembr
+daquele   daquel
+dell   dell
+adamo   ad
+xps   xp
+notebook   notebook
+9   9
+mm   mm
+espessura   espess
+meio   mei
+bizarro   bizarr
+achava   ach
+lindo   lind
+</sent>
+<sent>
+<class> -1 </class>
+<id> 73 </id>
+dor   dor
+cabeça   cabeç
+notebook   notebook
+acer   ac
+nunca   nunc
+deu   deu
+dell   dell
+caro   car
+tá   tá
+dando   dand
+péssimo   péss
+pós   pó
+venda   vend
+</sent>
+<sent>
+<class> 1 </class>
+<id> 74 </id>
+notebook   notebook
+dell   dell
+quase   quas
+tão   tão
+fino   fin
+quanto   quant
+chromebook   chromebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 75 </id>
+dois   doi
+dell   dell
+inspiron   inspiron
+n   n
+bosta   bost
+</sent>
+<sent>
+<class> -1 </class>
+<id> 76 </id>
+praise-the-lord   praise-the-lord
+amazing   amazing
+wonderful   wonderful
+ultra   ultr
+mega   meg
+power   pow
+notebook   notebook
+dell®   dell®
+pra   pra
+fita   fit
+2   2
+semanas   seman
+</sent>
+<sent>
+<class> -1 </class>
+<id> 77 </id>
+podem   pod
+ter   ter
+certeza   cert
+nunca   nunc
+vou   vou
+comprar   compr
+dell   dell
+último   últ
+notebook   notebook
+face   fac
+terra   terr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 78 </id>
+atualiza   atualiz
+notebook   notebook
+dell   dell
+windows   window
+10   10
+</sent>
+<sent>
+<class> -1 </class>
+<id> 79 </id>
+atualizar   atual
+driver   driv
+chipset   chipset
+bios   bio
+pra   pra
+tudo   tud
+funcionar   funcion
+bosta   bost
+dell   dell
+vou   vou
+comprar   compr
+notebook   notebook
+novo   nov
+foda-se   foda-s
+</sent>
+<sent>
+<class> -1 </class>
+<id> 80 </id>
+odeio   odei
+notebook   notebook
+dell   dell
+bosta   bost
+</sent>
+<sent>
+<class> -1 </class>
+<id> 81 </id>
+atualizar   atual
+notebook   notebook
+travar   trav
+vez   vez
+comigo   comig
+dell   dell
+windows8   windows8
+help   help
+</sent>
+<sent>
+<class> 1 </class>
+<id> 82 </id>
+comprei   compr
+notebook   notebook
+dell   dell
+2009   2009
+nunca   nunc
+deu   deu
+problema   problem
+</sent>
+<sent>
+<class> -1 </class>
+<id> 83 </id>
+aí   aí
+procuro   procur
+bateria   bat
+nova   nov
+pro   pro
+notebook   notebook
+5   5
+aninhos   aninh
+fabricante   fabric
+vende   vend
+comofas   comof
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 84 </id>
+primeiro   prim
+susto   sust
+resolvido   resolv
+dell   dell
+notebook   notebook
+carregado   carreg
+</sent>
+<sent>
+<class> -1 </class>
+<id> 85 </id>
+notebook   notebook
+dell   dell
+inutilizável   inutiliz
+após   após
+update   updat
+windows   window
+10   10
+microsoftbr   microsoftbr
+ajudem   ajud
+compartilhar   compartilh
+quero   quer
+solução   soluç
+</sent>
+<sent>
+<class> -1 </class>
+<id> 86 </id>
+comprei   compr
+notebook   notebook
+dell   dell
+rapaz   rapaz
+</sent>
+<sent>
+<class> -1 </class>
+<id> 87 </id>
+firsttromeo   firsttrome
+myunngsoo   myunngso
+gnete   gnet
+vcs   vc
+nunca   nunc
+viram   vir
+comercial   comerc
+dell   dell
+ultrabook   ultrabook
+eh   eh
+notebook   notebook
+supeeeeeeeerrrrr   supeeeeeeeerrrrr
+lixo   lix
+odiei   odi
+</sent>
+<sent>
+<class> 1 </class>
+<id> 88 </id>
+notebook   notebook
+voltou   volt
+apos   apo
+atualização   atual
+som   som
+ai   ai
+baixar   baix
+driver   driv
+atual   atual
+site   sit
+dell   dell
+rezei   rez
+deu   deu
+certo   cert
+windows10   windows10
+</sent>
+<sent>
+<class> -1 </class>
+<id> 89 </id>
+comprar   compr
+alguma   algum
+coisa   cois
+dell   dell
+dessa   dess
+putaria   put
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 90 </id>
+vou   vou
+instalar   instal
+w10   w10
+notebook   notebook
+mãe   mãe
+vou   vou
+deixar   deix
+formatar   format
+quero   quer
+matar   mat
+programinhas   progr
+dell   dell
+vêm   vêm
+junto   junt
+</sent>
+<sent>
+<class> -1 </class>
+<id> 91 </id>
+receptor   recep
+wifi   wif
+notebook   notebook
+geral   geral
+bem   bem
+ruim   ruim
+celular   celul
+aqui   aqu
+lado   lad
+sente   sent
+pequenas   pequen
+quedas   qued
+conexão   conex
+</sent>
+<sent>
+<class> 1 </class>
+<id> 92 </id>
+próximo   próx
+notebook   notebook
+entrar   entr
+vida   vid
+vai   vai
+ser   ser
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 93 </id>
+apesar   apes
+ganhar   ganh
+comissão   comiss
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 94 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+consigo   consig
+pedir   ped
+conserto   consert
+notebook   notebook
+http   http
+//fb.me/2h94osena   //fb.me/2h94osen
+</sent>
+<sent>
+<class> -1 </class>
+<id> 95 </id>
+alo   alo
+dell   dell
+vamo   vam
+cooperar   cooper
+notebook   notebook
+nao   nao
+1   1
+ano   ano
+pra   pra
+dar   dar
+problema   problem
+ajuda   ajud
+</sent>
+<sent>
+<class> -1 </class>
+<id> 96 </id>
+dell   dell
+diagnostic   diagnostic
+hard   hard
+drive   driv
+error   err
+code   cod
+tentando   tent
+resolver   resolv
+problema   problem
+</sent>
+<sent>
+<class> -1 </class>
+<id> 97 </id>
+tela   tel
+notebook   notebook
+dell   dell
+apagada   apag
+brilho   brilh
+</sent>
+<sent>
+<class> -1 </class>
+<id> 98 </id>
+notebook   notebook
+dell   dell
+processador   process
+i7   i7
+8gb   8gb
+ram   ram
+google   googl
+chrome   chrom
+trava   tr
+cada   cad
+10   10
+minutos   minut
+</sent>
+<sent>
+<class> 1 </class>
+<id> 99 </id>
+dessa   dess
+vez   vez
+</sent>
+<sent>
+<class> -1 </class>
+<id> 100 </id>
+precisar   precis
+trocar   troc
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 101 </id>
+daora   daor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 102 </id>
+lembrem   lembr
+nunca   nunc
+comprar   compr
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 103 </id>
+pra   pra
+vc   vc
+pensa   pens
+comprar   compr
+notebook   notebook
+inspiron   inspiron
+14   14
+3000   3000
+series   seri
+dell   dell
+compre   compr
+</sent>
+<sent>
+<class> 1 </class>
+<id> 104 </id>
+quero   quer
+notebook   notebook
+dell   dell
+quero   quer
+vermelho   vermelh
+</sent>
+<sent>
+<class> 1 </class>
+<id> 105 </id>
+atendimento   atend
+pós-venda   pós-vend
+dell   dell
+elogiado   elogi
+toa   toa
+ambas   ambas
+atendentes   atend
+fizeram   fiz
+jus   ju
+motivo   motiv
+escolha   escolh
+notebook   notebook
+q   q
+mãe   mãe
+adquiriu   adquir
+</sent>
+<sent>
+<class> -1 </class>
+<id> 106 </id>
+aaaaaaaaaaaaaaaaaaaaah   aaaaaaaaaaaaaaaaaaaaah
+kcete   kcet
+</sent>
+<sent>
+<class> -1 </class>
+<id> 107 </id>
+notebook   notebook
+deu   deu
+pau   pau
+dell   dell
+quis   quil
+cobrar   cobr
+quase   quas
+1k   1k
+pra   pra
+arrumar   arrum
+dizer   diz
+problema   problem
+</sent>
+<sent>
+<class> 1 </class>
+<id> 108 </id>
+pensando   pens
+comprar   compr
+notebook   notebook
+lenovo   lenov
+lenovobr   lenovobr
+dell   dell
+dellnobrasil   dellnobrasil
+incríveis   incr
+principalmente   princip
+edição   ediç
+especial   espec
+</sent>
+<sent>
+<class> -1 </class>
+<id> 109 </id>
+todo   tod
+mundo   mund
+conheço   conheç
+comprou   compr
+dell   dell
+algum   algum
+problema   problem
+</sent>
+<sent>
+<class> -1 </class>
+<id> 110 </id>
+comprar   compr
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 111 </id>
+dell   dell
+ta   ta
+sacanagem   sacan
+comigo   comig
+</sent>
+<sent>
+<class> -1 </class>
+<id> 112 </id>
+quero   quer
+porra   porr
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 113 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13863658/dell-computadores-do-brasil/sem-retorno-do-suporte-tecnico-dell-a-respeito-de-notebook-v/   //www.reclameaqui.com.br/13863658/dell-computadores-do-brasil/sem-retorno-do-suporte-tecnico-dell-a-respeito-de-notebook-v/
+</sent>
+<sent>
+<class> 1 </class>
+<id> 114 </id>
+próximo   próx
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 115 </id>
+aí   aí
+notebook   notebook
+novinho   nov
+dá   dá
+pau   pau
+vc   vc
+descobre   descobr
+q   q
+monte   mont
+gente   gent
+mesma   mesm
+situação   situ
+nunca   nunc
+comprem   compr
+dell   dell
+erro0xc000021a   erro0xc000021
+</sent>
+<sent>
+<class> -1 </class>
+<id> 116 </id>
+dellajudapro   dellajudapr
+notebook   notebook
+liga   lig
+trava   tr
+tela   tel
+inicialização   inici
+dell   dell
+funciona   func
+</sent>
+<sent>
+<class> 1 </class>
+<id> 117 </id>
+recomendação   recomend
+notebook   notebook
+uso   uso
+intermediário   intermedi
+notebook   notebook
+dell   dell
+inspiron   inspiron
+i14-3443-b40   i14-3443-b40
+link   link
+compra   compr
+http   http
+//youtu.be/pr9kmggvpcw   //youtu.be/pr9kmggvpcw
+</sent>
+<sent>
+<class> -1 </class>
+<id> 118 </id>
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 119 </id>
+notebook   notebook
+dell   dell
+xps   xp
+13   13
+tipo   tip
+macbook   macbook
+windows   window
+ein   ein
+</sent>
+<sent>
+<class> -1 </class>
+<id> 120 </id>
+notebook   notebook
+dell   dell
+continua   continu
+dando   dand
+defeito   defeit
+http   http
+//youtu.be/02w_f1pcbye   //youtu.be/02w_f1pcby
+via   via
+youtube   youtub
+</sent>
+<sent>
+<class> -1 </class>
+<id> 121 </id>
+dell   dell
+deu   deu
+1   1
+ano   ano
+kaspersky   kaspersky
+grátis   grátil
+cd   cd
+ter   ter
+comprado   compr
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 122 </id>
+filho   filh
+nao   nao
+morreu   morr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 123 </id>
+gordogeek   gordogeek
+caso   cas
+parecido   parec
+dell   dell
+frente   frent
+leitor   leit
+dvd   dvd
+notebook   notebook
+queriam   quer
+enviasse   envi
+pra   pra
+lá   lá
+</sent>
+<sent>
+<class> 1 </class>
+<id> 124 </id>
+aff   aff
+preciso   precis
+mt   mt
+notebook   notebook
+dell   dell
+ajuda   ajud
+nois   noil
+aí   aí
+</sent>
+<sent>
+<class> 1 </class>
+<id> 125 </id>
+agora   agor
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 126 </id>
+notebook   notebook
+dell   dell
+fuleirão   fule
+</sent>
+<sent>
+<class> -1 </class>
+<id> 127 </id>
+defeito   defeit
+lcd   lcd
+notebook   notebook
+dell   dell
+inspiron   inspiron
+14r   14r
+5437   5437
+</sent>
+<sent>
+<class> -1 </class>
+<id> 128 </id>
+2   2
+anos   ano
+após   após
+ter   ter
+comprado   compr
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 129 </id>
+nao   nao
+sei   sei
+dell   dell
+windows   window
+8   8
+</sent>
+<sent>
+<class> 1 </class>
+<id> 130 </id>
+renatadiem   renatadi
+dell   dell
+funcionando   funcion
+7   7
+anos   ano
+ainda   aind
+firme   firm
+forte   fort
+</sent>
+<sent>
+<class> 1 </class>
+<id> 131 </id>
+intelbrasil   intelbrasil
+primeiro   prim
+pc   pc
+verdade   verdad
+notebook   notebook
+dell   dell
+inspiron   inspiron
+intel   intel
+core   cor
+i5   i5
+amoraprimeiravista   amoraprimeirav
+nuncavouesquecer   nuncavouesquec
+</sent>
+<sent>
+<class> -1 </class>
+<id> 132 </id>
+adivinhem   adivinh
+notebook   notebook
+deu   deu
+pau   pau
+windowss   windows
+agora   agor
+vou   vou
+ter   ter
+q   q
+esperar   esper
+dell   dell
+enviar   envi
+cd   cd
+windows   window
+ate   ate
+sexta   sext
+</sent>
+<sent>
+<class> -1 </class>
+<id> 133 </id>
+notebook   notebook
+acho   ach
+super   sup
+lindo   lind
+dell   dell
+veio   vei
+brasil   brasil
+placa   plac
+vídeo   víde
+configurações   configur
+toscas   tosc
+</sent>
+<sent>
+<class> 1 </class>
+<id> 134 </id>
+leordgs   leordg
+lord_davi   lord_dav
+bom   bom
+ponto   pont
+</sent>
+<sent>
+<class> 1 </class>
+<id> 135 </id>
+comprei   compr
+notebook   notebook
+dellnobrasil   dellnobrasil
+site   sit
+pontofrio   pontofri
+deve   dev
+chegar   cheg
+semana   seman
+vem   vem
+comprei   compr
+dell   dell
+confiança   confianç
+marca   marc
+</sent>
+<sent>
+<class> -1 </class>
+<id> 136 </id>
+notebook   notebook
+novo   nov
+parece   parec
+brincadeira   brinc
+mau   mau
+gosto   gost
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 137 </id>
+ferrari   ferrar
+</sent>
+<sent>
+<class> -1 </class>
+<id> 138 </id>
+disse   diss
+pra   pra
+dell   dell
+fazem   faz
+notebook   notebook
+parece   parec
+sanduicheira   sanduich
+</sent>
+<sent>
+<class> -1 </class>
+<id> 139 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13724177/dell-computadores-do-brasil/notebook/   //www.reclameaqui.com.br/13724177/dell-computadores-do-brasil/notebook/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 140 </id>
+sonho   sonh
+notebook   notebook
+dell   dell
+realidade   real
+pc   pc
+quebrado   quebr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 141 </id>
+tô   tô
+35   35
+minutos   minut
+conversando   convers
+telefone   telefon
+técnico   técn
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 142 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+garantia   garant
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 143 </id>
+notebook   notebook
+última   últ
+geração   ger
+</sent>
+<sent>
+<class> -1 </class>
+<id> 144 </id>
+saudades   saudad
+notebook   notebook
+hp   hp
+</sent>
+<sent>
+<class> -1 </class>
+<id> 145 </id>
+simpson_yuri   simpson_yur
+eita   eit
+mano   man
+notebook   notebook
+dell   dell
+foda   fod
+vei   vei
+kkkk   kkkk
+</sent>
+<sent>
+<class> -1 </class>
+<id> 146 </id>
+maior   mai
+arrependimento   arrepend
+vida   vid
+ter   ter
+dado   dad
+4   4
+mil   mil
+reais   real
+notebook   notebook
+dell   dell
+jesus   jesu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 147 </id>
+notebook   notebook
+dell   dell
+verdadeira   verd
+merda   merd
+</sent>
+<sent>
+<class> -1 </class>
+<id> 148 </id>
+entro   entr
+site   sit
+dell   dell
+intenção   intenç
+comprar   compr
+notebook   notebook
+barato   barat
+</sent>
+<sent>
+<class> 1 </class>
+<id> 149 </id>
+notebook   notebook
+tá   tá
+todo   tod
+fodido   fod
+começar   começ
+trabalhar   trabalh
+logo   log
+pra   pra
+comprar   compr
+outro   outr
+outro   outr
+cel   cel
+quero   quer
+outro   outr
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 150 </id>
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 151 </id>
+56   56
+minutos   minut
+suporte   suport
+telefônico   telefôn
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 152 </id>
+notebook   notebook
+dell   dell
+bom   bom
+</sent>
+<sent>
+<class> 1 </class>
+<id> 153 </id>
+propósito   propósit
+</sent>
+<sent>
+<class> -1 </class>
+<id> 154 </id>
+notebook   notebook
+ta   ta
+ligando   lig
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 155 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dellnobrasil   dellnobrasil
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13629753/dell-computadores-do-brasil/notebook-dell-aparelhos-de-terceira-categoria/   //www.reclameaqui.com.br/13629753/dell-computadores-do-brasil/notebook-dell-aparelhos-de-terceira-categoria/
+</sent>
+<sent>
+<class> 1 </class>
+<id> 156 </id>
+obrigado   obrig
+michael   michael
+dell   dell
+atenção   atenç
+migo   mig
+notebook   notebook
+voltou   volt
+estar   est
+bem   bem
+</sent>
+<sent>
+<class> 1 </class>
+<id> 157 </id>
+confidobrev   confidobrev
+samsung   samsung
+</sent>
+<sent>
+<class> 1 </class>
+<id> 158 </id>
+finalmente   final
+notebook   notebook
+novo   nov
+chegou   cheg
+agora   agor
+'tou   'tou
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 159 </id>
+notebook   notebook
+natinha   nat
+http   http
+//www.walmart.com.br/produto/informatica/notebooks/acer/493   //www.walmart.com.br/produto/informatica/notebooks/acer/493
+—   —
+segundo   segund
+dell   dell
+eh   eh
+vida   vid
+3   3
+http   http
+//ask.fm/a/c919n8lb   //ask.fm/a/c919n8lb
+</sent>
+<sent>
+<class> -1 </class>
+<id> 160 </id>
+torcendo   torc
+pra   pra
+dell   dell
+agilizar   agiliz
+logo   log
+situação   situ
+pra   pra
+precisar   precis
+ir   ir
+procon   procon
+tanto   tant
+problema   problem
+pq   pq
+quis   quil
+comprar   compr
+notebook   notebook
+bom   bom
+</sent>
+<sent>
+<class> -1 </class>
+<id> 161 </id>
+gosto   gost
+desse   dess
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 162 </id>
+tô   tô
+quatro   quatr
+meses   mes
+notebook   notebook
+dell   dell
+graves   grav
+som   som
+fodidos   fod
+.....................   .....................
+</sent>
+<sent>
+<class> -1 </class>
+<id> 163 </id>
+vou   vou
+mandar   mand
+notebook   notebook
+volta   volt
+pra   pra
+dell   dell
+bomba   bomb
+atômica   atôm
+dentro   dentr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 164 </id>
+notebook   notebook
+dell   dell
+diacho   diach
+programa   program
+segundo   segund
+plano   plan
+recovery   recovery
+nenhuma   nenhum
+opção   opç
+desativar   desativ
+</sent>
+<sent>
+<class> -1 </class>
+<id> 165 </id>
+vai   vai
+tomar   tom
+cú   cú
+passo   pass
+raiva   raiv
+merda   merd
+notebook   notebook
+jamais   jamal
+comprem   compr
+produtos   produt
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 166 </id>
+dell   dell
+r   r
+$   $
+1.603   1.603
+</sent>
+<sent>
+<class> -1 </class>
+<id> 167 </id>
+rbnave   rbnav
+to   to
+jogando   jog
+notebook   notebook
+dell   dell
+2010   2010
+podridão   podr
+edition   edition
+</sent>
+<sent>
+<class> -1 </class>
+<id> 168 </id>
+comprei   compr
+notebook   notebook
+dell   dell
+mano   man
+oficialmente   ofic
+pior   pi
+bosta   bost
+ja   ja
+comprei   compr
+vida   vid
+</sent>
+<sent>
+<class> -1 </class>
+<id> 169 </id>
+aí   aí
+sei   sei
+fodo   fod
+dell   dell
+pessoal   pessoal
+formatou   format
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 170 </id>
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 171 </id>
+desliguei   deslig
+outro   outr
+notebook   notebook
+pra   pra
+usar   us
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 172 </id>
+quero   quer
+trocar   troc
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 173 </id>
+dell   dell
+3   3
+anos   ano
+meio   mei
+notebook   notebook
+bom   bom
+</sent>
+<sent>
+<class> -1 </class>
+<id> 174 </id>
+compre   compr
+notebook   notebook
+dell   dell
+brinde   brind
+ganhe   ganh
+24   24
+meses   mes
+dor   dor
+cabeça   cabeç
+sofra   sofr
+trocar   troc
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 175 </id>
+ativei   ativ
+configurações   configur
+touchped   touchped
+notebook   notebook
+pra   pra
+casa   cas
+namorada   namor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 176 </id>
+notebook   notebook
+ta   ta
+pedindo   ped
+pra   pra
+ser   ser
+jogado   jog
+janela   janel
+dell   dell
+ainda   aind
+porra   porr
+paguei   pag
+horrores   horr
+sextacomvalentinosdv   sextacomvalentinosdv
+</sent>
+<sent>
+<class> 1 </class>
+<id> 177 </id>
+melhor   melhor
+coisa   cois
+notebook   notebook
+dell   dell
+teclado   tecl
+iluminado   ilumin
+</sent>
+<sent>
+<class> 1 </class>
+<id> 178 </id>
+pessoal   pessoal
+</sent>
+<sent>
+<class> 1 </class>
+<id> 179 </id>
+enfim   enfim
+</sent>
+<sent>
+<class> 1 </class>
+<id> 180 </id>
+boa   boa
+noite   noit
+</sent>
+<sent>
+<class> 1 </class>
+<id> 181 </id>
+nunca   nunc
+</sent>
+<sent>
+<class> 1 </class>
+<id> 182 </id>
+design   design
+pouco   pouc
+pro   pro
+xps   xp
+13   13
+notebook   notebook
+lindo   lind
+http   http
+//del.ly/6018b6zsg   //del.ly/6018b6zsg
+</sent>
+<sent>
+<class> 1 </class>
+<id> 183 </id>
+notebook   notebook
+dell   dell
+agilidade   agil
+ótima   ótim
+performance   performanc
+realizar   realiz
+variadas   vari
+tarefas   taref
+</sent>
+<sent>
+<class> -1 </class>
+<id> 184 </id>
+jamais   jamal
+comprem   compr
+notebook   notebook
+dellnobrasil   dellnobrasil
+dell   dell
+dellcares   dellc
+porque   porqu
+máquinas   máquin
+estragam   estrag
+menos   menos
+1   1
+ano   ano
+consertam   consert
+dell   dell
+lixo   lix
+</sent>
+<sent>
+<class> -1 </class>
+<id> 185 </id>
+nunca   nunc
+</sent>
+<sent>
+<class> -1 </class>
+<id> 186 </id>
+troquei   troq
+6   6
+meia   mei
+dúzia   dúz
+</sent>
+<sent>
+<class> 1 </class>
+<id> 187 </id>
+vi   vi
+notebook   notebook
+p-e-r-f-e-i-t-o   p-e-r-f-e-i-t-
+ontem   ont
+saraiva   sara
+</sent>
+<sent>
+<class> 1 </class>
+<id> 188 </id>
+próximo   próx
+sonho   sonh
+consumo   consum
+notebook   notebook
+dell   dell
+inspiron   inspiron
+7000   7000
+pirei   pir
+nesse   ness
+negócio   negóci
+</sent>
+<sent>
+<class> -1 </class>
+<id> 189 </id>
+comprei   compr
+notebook   notebook
+fudido   fud
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 190 </id>
+noranblt   noranblt
+letra   letr
+feia   fei
+</sent>
+<sent>
+<class> -1 </class>
+<id> 191 </id>
+verdade   verdad
+tudo   tud
+culpa   culp
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 192 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+fiz   fiz
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13372457/dell-computadores-do-brasil/notebook-manchado-com-menos-de-4-meses-de-uso/   //www.reclameaqui.com.br/13372457/dell-computadores-do-brasil/notebook-manchado-com-menos-de-4-meses-de-uso/
+</sent>
+<sent>
+<class> 1 </class>
+<id> 193 </id>
+alguém   alguém
+dá   dá
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 194 </id>
+pior   pi
+paguei   pag
+caro   car
+configuração   configur
+parruda   parrud
+pra   pra
+ficar   fic
+carroça   carroç
+boa   boa
+</sent>
+<sent>
+<class> -1 </class>
+<id> 195 </id>
+terceiro   terc
+notebook   notebook
+dell   dell
+problema   problem
+internet   internet
+wi   wi
+fi   fi
+aqui   aqu
+casa   cas
+</sent>
+<sent>
+<class> -1 </class>
+<id> 196 </id>
+adeus   adeu
+notebook   notebook
+dell   dell
+escroto   escrot
+cheio   chei
+vírus   víru
+descanse   descans
+paz   paz
+</sent>
+<sent>
+<class> -1 </class>
+<id> 197 </id>
+notebook   notebook
+dell   dell
+inspiration   inspiration
+15   15
+roubada   roub
+</sent>
+<sent>
+<class> 1 </class>
+<id> 198 </id>
+saudades   saudad
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 199 </id>
+cara   car
+notebook   notebook
+tá   tá
+lixo   lix
+</sent>
+<sent>
+<class> -1 </class>
+<id> 200 </id>
+reiniciando   reinici
+cu   cu
+notebook   notebook
+dell   dell
+fdp   fdp
+</sent>
+<sent>
+<class> -1 </class>
+<id> 201 </id>
+comprei   compr
+notebook   notebook
+dell   dell
+fez   fez
+1   1
+ano   ano
+tá   tá
+lixo   lix
+quero   quer
+direitos   direit
+repassem   rep
+chegar   cheg
+dilma   dilm
+web   web
+diva   div
+tulla   tull
+nyle   nyl
+</sent>
+<sent>
+<class> 1 </class>
+<id> 202 </id>
+4   4
+dias   dia
+aniversário   aniversári
+q   q
+foda   fod
+pc   pc
+né   né
+mãe   mãe
+http   http
+//www.submarino.com.br/produto/122565536/notebook-2-em-1-dell-inspiron-13-7348-a20-intel-core-i5-4gb-500gb-led-full-hd-13-3-windows-8.1   //www.submarino.com.br/produto/122565536/notebook-2-em-1-dell-inspiron-13-7348-a20-intel-core-i5-4gb-500gb-led-full-hd-13-3-windows-8.1
+</sent>
+<sent>
+<class> -1 </class>
+<id> 203 </id>
+burra   burr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 204 </id>
+queria   quer
+notebook   notebook
+novo   nov
+funcionasse   funcion
+dell   dell
+desse   dess
+novo   nov
+vez   vez
+ficar   fic
+mandando   mand
+técnico   técn
+pedindo   ped
+pra   pra
+fazer   faz
+testes   test
+</sent>
+<sent>
+<class> -1 </class>
+<id> 205 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+fiz   fiz
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13299009/dell-computadores-do-brasil/notebook-nao-funciona-esta-na-garantia-e-a-dell-nao-resolve/   //www.reclameaqui.com.br/13299009/dell-computadores-do-brasil/notebook-nao-funciona-esta-na-garantia-e-a-dell-nao-resolve/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 206 </id>
+nunca   nunc
+compro   compr
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 207 </id>
+notebook   notebook
+dell   dell
+teclado   tecl
+abnt2   abnt2
+desanima   desan
+</sent>
+<sent>
+<class> -1 </class>
+<id> 208 </id>
+notebook   notebook
+lástima   lást
+</sent>
+<sent>
+<class> 1 </class>
+<id> 209 </id>
+loja   loj
+dell   dell
+deu   deu
+notebook   notebook
+novo   nov
+</sent>
+<sent>
+<class> -1 </class>
+<id> 210 </id>
+fast   fast
+acess   aces
+dell   dell
+desinstalá   desinstal
+notebook   notebook
+vê   vê
+ta   ta
+lá   lá
+instalado   instal
+novo   nov
+</sent>
+<sent>
+<class> 1 </class>
+<id> 211 </id>
+compro   compr
+notebook   notebook
+dell   dell
+agora   agor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 212 </id>
+desinstalei   desinstal
+atualização   atual
+dell   dell
+notebook   notebook
+parou   par
+travar   trav
+olha   olh
+dell   dell
+querendo   quer
+travar   trav
+notebook   notebook
+atualizações   atual
+touchpad   touchpad
+</sent>
+<sent>
+<class> -1 </class>
+<id> 213 </id>
+instalo   instal
+atualização   atual
+dell   dell
+notebook   notebook
+começa   começ
+travar   trav
+inteiro   int
+</sent>
+<sent>
+<class> -1 </class>
+<id> 214 </id>
+notebook   notebook
+ta   ta
+lento   lent
+to   to
+sentindo   sent
+enganado   engan
+dell   dell
+porque   porqu
+fizeram   fiz
+propaganda   propagand
+enorme   enorm
+dessa   dess
+coisa   cois
+</sent>
+<sent>
+<class> -1 </class>
+<id> 215 </id>
+deveria   dev
+ter   ter
+comprado   compr
+notebook   notebook
+hp   hp
+</sent>
+<sent>
+<class> -1 </class>
+<id> 216 </id>
+notebook   notebook
+dell   dell
+compro   compr
+mais.toda   mais.tod
+hora   hor
+abrem   abr
+avisos   avis
+d   d
+atualização/backup   atualização/backup
+sistema   sistem
+q   q
+nao   nao
+servem   serv
+p/nada.querem   p/nada.qu
+ganhar   ganh
+vendendo   vend
+inutilidade   inutil
+</sent>
+<sent>
+<class> -1 </class>
+<id> 217 </id>
+dell   dell
+ta   ta
+conseguindo   consegu
+ódio   ódi
+vostro   vostr
+5470   5470
+</sent>
+<sent>
+<class> -1 </class>
+<id> 218 </id>
+2009   2009
+compramos   compr
+notebook   notebook
+dell   dell
+r   r
+$   $
+2.500   2.500
+</sent>
+<sent>
+<class> 1 </class>
+<id> 219 </id>
+in   in
+love   lov
+novo   nov
+notebook   notebook
+dell   dell
+séculos   sécul
+usando   us
+netbook   netbook
+rs   rs
+coragem   corag
+desfazer   desfaz
+pequenino   pequenin
+rs   rs
+</sent>
+<sent>
+<class> -1 </class>
+<id> 220 </id>
+</sent>
+<sent>
+<class> -1 </class>
+<id> 221 </id>
+comprar   compr
+memoria   memor
+pro   pro
+macbook   macbook
+q   q
+notebook   notebook
+dell   dell
+largou   larg
+mão   mão
+parou   par
+trabalhar   trabalh
+</sent>
+<sent>
+<class> 1 </class>
+<id> 222 </id>
+vejam   vej
+entrou   entr
+manutenção   manutenç
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 223 </id>
+pense   pens
+duas   dua
+vezes   vez
+antes   ant
+comprar   compr
+notebook   notebook
+quase   quas
+r   r
+$   $
+2mil   2mil
+dell   dell
+configuração   configur
+pik   pik
+galáxias   galáx
+</sent>
+<sent>
+<class> 1 </class>
+<id> 224 </id>
+notebook   notebook
+novo   nov
+dell   dell
+tia   tia
+comprou   compr
+ótimo   ótim
+</sent>
+<sent>
+<class> -1 </class>
+<id> 225 </id>
+piores   pi
+compras   compr
+fiz   fiz
+</sent>
+<sent>
+<class> -1 </class>
+<id> 226 </id>
+comprei   compr
+notebook   notebook
+dell   dell
+5   5
+meses   mes
+perdi   perd
+umas   uma
+40   40
+horas   hor
+vida   vid
+pra   pra
+tentar   tent
+resolver   resolv
+problema   problem
+</sent>
+<sent>
+<class> -1 </class>
+<id> 227 </id>
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 228 </id>
+desabafando   desabaf
+</sent>
+<sent>
+<class> -1 </class>
+<id> 229 </id>
+ok   ok
+</sent>
+<sent>
+<class> -1 </class>
+<id> 230 </id>
+primeira   prim
+grande   grand
+coisa   cois
+ruim   ruim
+notebook   notebook
+novo   nov
+dell   dell
+oferece   oferec
+driver   driv
+pra   pra
+webcam   webc
+</sent>
+<sent>
+<class> 1 </class>
+<id> 231 </id>
+tcurvelo   tcurvel
+além   além
+disso   diss
+garantia   garant
+dell   dell
+excelente   excel
+último   últ
+notebook   notebook
+deu   deu
+problema   problem
+hd   hd
+trocar   troc
+casa   cas
+</sent>
+<sent>
+<class> -1 </class>
+<id> 232 </id>
+jaque   jaqu
+menezs   menez
+retweetou   retweet
+dell   dell
+ajuda   ajud
+indico   indic
+ninguém   ninguém
+comprar   compr
+dell   dell
+notebook   notebook
+encalhado   encalh
+ficadica   ficad
+jaque   jaqu
+menezs   menez
+adicionou   adicion
+</sent>
+<sent>
+<class> -1 </class>
+<id> 233 </id>
+nunca   nunc
+compro   compr
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 234 </id>
+paguei   pag
+quase   quas
+3   3
+mil   mil
+reais   real
+notebook   notebook
+top   top
+linha   linh
+dell   dell
+pra   pra
+ficar   fic
+esquentando   esquent
+desligar   deslig
+mudo   mud
+posição   pos
+tela   tel
+</sent>
+<sent>
+<class> -1 </class>
+<id> 235 </id>
+cara   car
+</sent>
+<sent>
+<class> -1 </class>
+<id> 236 </id>
+colega   coleg
+comprou   compr
+modelo   model
+notebook   notebook
+dell   dell
+praticamente   pratic
+período   períod
+</sent>
+<sent>
+<class> 1 </class>
+<id> 237 </id>
+falar   fal
+notebook   notebook
+dell   dell
+maravilhoso   maravilh
+parabéns   parabém
+dá   dá
+5   5
+mil   mil
+causa   caus
+maçã   maçã
+</sent>
+<sent>
+<class> -1 </class>
+<id> 238 </id>
+notebook   notebook
+dell   dell
+dois   doi
+meses   mes
+custava   cust
+2599   2599
+</sent>
+<sent>
+<class> -1 </class>
+<id> 239 </id>
+30   30
+dias   dia
+entregar   entreg
+notebook   notebook
+dell   dell
+¬¬   ¬¬
+</sent>
+<sent>
+<class> -1 </class>
+<id> 240 </id>
+dellnobrasil   dellnobrasil
+1   1
+ano   ano
+placa   plac
+mãe   mãe
+dell   dell
+vostro   vostr
+1710   1710
+notebook   notebook
+parado   par
+dell   dell
+nada   nad
+</sent>
+<sent>
+<class> -1 </class>
+<id> 241 </id>
+pior   pi
+entrega   entreg
+notebook   notebook
+dell   dell
+customizado   custom
+prazo   praz
+30   30
+dias   dia
+</sent>
+<sent>
+<class> -1 </class>
+<id> 242 </id>
+olho   olh
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 243 </id>
+demolidor   demol
+fez   fez
+pensar   pens
+comprando   compr
+coisas   cois
+bacanas   bacan
+tv   tv
+celular   celul
+samsung   samsung
+</sent>
+<sent>
+<class> -1 </class>
+<id> 244 </id>
+tela   tel
+celular   celul
+bem   bem
+melhor   melhor
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 245 </id>
+coisa   cois
+ctz   ctz
+vida   vid
+intenção   intenç
+notebook   notebook
+conectar-se   conectar-s
+internet   internet
+via   via
+wifi   wif
+</sent>
+<sent>
+<class> -1 </class>
+<id> 246 </id>
+mandar   mand
+carta   cart
+dell   dell
+vou   vou
+comprar   compr
+outro   outr
+notebook   notebook
+serio   seri
+link   link
+permanente   permanent
+imagem   imag
+incorporada   incorpor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 247 </id>
+madrugada   madrug
+ajeitando   ajeit
+notebook   notebook
+tanto   tant
+quebrar   quebr
+cabeça   cabeç
+</sent>
+<sent>
+<class> -1 </class>
+<id> 248 </id>
+cara   car
+</sent>
+<sent>
+<class> -1 </class>
+<id> 249 </id>
+dellajuda   dellajud
+olá   olá
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 250 </id>
+ubuntu   ubuntu
+dá   dá
+bem   bem
+hardware   hardw
+desse   dess
+notebook   notebook
+dell   dell
+inspiron   inspiron
+</sent>
+<sent>
+<class> 1 </class>
+<id> 251 </id>
+melhor   melhor
+coisa   cois
+notebook   notebook
+novo   nov
+dell   dell
+mandou   mand
+auto   aut
+falante   fal
+tipo   tip
+</sent>
+<sent>
+<class> -1 </class>
+<id> 252 </id>
+cara   car
+</sent>
+<sent>
+<class> -1 </class>
+<id> 253 </id>
+preciso   precis
+notebook   notebook
+funcionando   funcion
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 254 </id>
+quero   quer
+preciso   precis
+comprar   compr
+notebook   notebook
+quero   quer
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 255 </id>
+luuan__   luuan__
+notebook   notebook
+sheldon   sheldon
+dell   dell
+melhor   melhor
+argumento   argument
+</sent>
+<sent>
+<class> -1 </class>
+<id> 256 </id>
+algum   algum
+amg   amg
+aqui   aqu
+notebook   notebook
+dell   dell
+problemas   problem
+toda   tod
+vez   vez
+pc   pc
+sai   sai
+modo   mod
+sleep   sleep
+</sent>
+<sent>
+<class> -1 </class>
+<id> 257 </id>
+comprei   compr
+bateria   bat
+nova   nov
+pro   pro
+pc   pc
+</sent>
+<sent>
+<class> 1 </class>
+<id> 258 </id>
+teclado   tecl
+usbs   usb
+pararam   par
+funcionar   funcion
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 259 </id>
+sobre   sobr
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 260 </id>
+gente   gent
+nunca   nunc
+comprem   compr
+notebook   notebook
+dell   dell
+bateria   bat
+nao   nao
+duram   dur
+2   2
+anos   ano
+serio   seri
+</sent>
+<sent>
+<class> -1 </class>
+<id> 261 </id>
+tecla   tecl
+delete   delet
+notebook   notebook
+dell   dell
+tá   tá
+defeito   defeit
+funciona   func
+fica   fic
+pressionando   pression
+pra   pra
+excluir   exclu
+tudo   tud
+seleciono   selecion
+agora   agor
+</sent>
+<sent>
+<class> 1 </class>
+<id> 262 </id>
+permitissem   permit
+escolher   escolh
+novo   nov
+macbook   macbook
+dell   dell
+xps   xp
+13   13
+</sent>
+<sent>
+<class> -1 </class>
+<id> 263 </id>
+chat   chat
+online   onlin
+dell   dell
+acusa   acus
+erro   err
+hard   hard
+drive   driv
+</sent>
+<sent>
+<class> -1 </class>
+<id> 264 </id>
+notebook   notebook
+dell   dell
+entrando   entr
+windows   window
+olha   olh
+desliguei   deslig
+certinho   cert
+ontem   ont
+noite   noit
+</sent>
+<sent>
+<class> -1 </class>
+<id> 265 </id>
+notebook   notebook
+dell   dell
+rui   rui
+cores   cor
+rui   rui
+brilho   brilh
+tela   tel
+rui   rui
+</sent>
+<sent>
+<class> -1 </class>
+<id> 266 </id>
+proximo   prox
+notebook   notebook
+vou   vou
+comprar   compr
+acer   ac
+pq   pq
+dell   dell
+nunca   nunc
+coisa   cois
+horrivv   horrivv
+</sent>
+<sent>
+<class> -1 </class>
+<id> 267 </id>
+rafabarbosa   rafabarb
+ultrabook   ultrabook
+dá   dá
+dell   dell
+ultrabook   ultrabook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 268 </id>
+dann_cardoso   dann_card
+foda   fod
+ultrabook   ultrabook
+vi   vi
+dell   dell
+aqui   aqu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 269 </id>
+juntando   junt
+preços   preç
+atuais   atual
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 270 </id>
+dica   dic
+pra   pra
+vida   vid
+nunca   nunc
+comprem   compr
+notebook   notebook
+dell   dell
+paguem   pagu
+garantia   garant
+estendida   estend
+dellajuda   dellajud
+dellnobrasil   dellnobrasil
+dellajudapro   dellajudapr
+</sent>
+<sent>
+<class> 1 </class>
+<id> 271 </id>
+aqui   aqu
+casa   cas
+fez   fez
+troca   troc
+placa   plac
+novinha   nov
+notebook   notebook
+inteirinho   inte
+</sent>
+<sent>
+<class> -1 </class>
+<id> 272 </id>
+odeio   odei
+notebook   notebook
+sdds   sdd
+dell   dell
+sei   sei
+oq   oq
+pai   pai
+arrumou   arrum
+</sent>
+<sent>
+<class> 1 </class>
+<id> 273 </id>
+notebook   notebook
+q   q
+ser   ser
+dell   dell
+memo   mem
+né   né
+mano   man
+jeito   jeit
+</sent>
+<sent>
+<class> -1 </class>
+<id> 274 </id>
+resoluções   resoluç
+vida   vid
+nunca   nunc
+comprar   compr
+notebook   notebook
+dell   dell
+celular   celul
+samsung   samsung
+</sent>
+<sent>
+<class> -1 </class>
+<id> 275 </id>
+dell   dell
+lixo   lix
+tô   tô
+pensando   pens
+seriamente   ser
+devolver   devolv
+notebook   notebook
+ainda   aind
+chegou   cheg
+</sent>
+<sent>
+<class> -1 </class>
+<id> 276 </id>
+notebook   notebook
+dell   dell
+mal   mal
+chegou   cheg
+tô   tô
+quase   quas
+arrependido   arrepend
+compra   compr
+reclamações   reclam
+vi   vi
+vai   vai
+dar   dar
+dor   dor
+cabeça   cabeç
+kkk   kkk
+</sent>
+<sent>
+<class> -1 </class>
+<id> 277 </id>
+dell   dell
+dá   dá
+notebook   notebook
+novo   nov
+porque   porqu
+nada   nad
+agora   agor
+desliga   deslig
+sozinho   so
+99   99
+%   %
+bateria   bat
+</sent>
+<sent>
+<class> 1 </class>
+<id> 278 </id>
+mediarequentada   mediarequent
+sério   séri
+</sent>
+<sent>
+<class> -1 </class>
+<id> 279 </id>
+giselerebelo   giselerebel
+dell   dell
+ainda   aind
+notebook   notebook
+hp   hp
+fuja   fuj
+dell   dell
+hp   hp
+lenovo   lenov
+melhor   melhor
+tudo   tud
+</sent>
+<sent>
+<class> 1 </class>
+<id> 280 </id>
+queria   quer
+tanto   tant
+notebook   notebook
+dell   dell
+hp   hp
+</sent>
+<sent>
+<class> -1 </class>
+<id> 281 </id>
+momento   moment
+fila   fil
+suporte   suport
+técnico   técn
+online   onlin
+dell   dell
+pois   poi
+microfone   microfon
+notebook   notebook
+aparentemente   aparent
+existe   exist
+</sent>
+<sent>
+<class> 1 </class>
+<id> 282 </id>
+vejo   vej
+hora   hor
+chegar   cheg
+notebook   notebook
+fodástico   fodás
+dell   dell
+direto   diret
+submarino   submarin
+</sent>
+<sent>
+<class> -1 </class>
+<id> 283 </id>
+omg   omg
+ainda   aind
+ñ   ñ
+consigo   consig
+navegar   naveg
+internet   internet
+notebook   notebook
+dellnobrasil   dellnobrasil
+dell   dell
+atualização   atual
+drivers   driv
+troca   troc
+placa   plac
+ñ   ñ
+resolveu   resolv
+problema   problem
+</sent>
+<sent>
+<class> -1 </class>
+<id> 284 </id>
+notebook   notebook
+dell   dell
+consigo   consig
+desativar   desativ
+microfone   microfon
+interno   intern
+quero   quer
+usar   us
+fone   fon
+externo   extern
+consigo   consig
+suporte   suport
+consegue   conseg
+</sent>
+<sent>
+<class> -1 </class>
+<id> 285 </id>
+nao   nao
+aguento   aguent
+entrar   entr
+contato   contat
+dell   dell
+brasil   brasil
+pra   pra
+resolver   resolv
+problema   problem
+notebook   notebook
+toda   tod
+vez   vez
+dão   dão
+http   http
+//fb.me/77go3cuzq   //fb.me/77go3cuzq
+</sent>
+<sent>
+<class> -1 </class>
+<id> 286 </id>
+assistencia   assistenc
+tecnic   tecnic
+sumiu   sum
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 287 </id>
+comprar   compr
+algum   algum
+computador   comput
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 288 </id>
+pc   pc
+casa   cas
+faleceu   falec
+tanta   tant
+pesquisa   pesquis
+comprei   compr
+notebook   notebook
+dell   dell
+obrigada   obrig
+todos   tod
+indicação   indic
+</sent>
+<sent>
+<class> 1 </class>
+<id> 289 </id>
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 290 </id>
+proximo   prox
+notebook   notebook
+vai   vai
+ser   ser
+dell   dell
+https   http
+//macmagazine.com.br/wp-content/uploads/2015/03/09-tabela-notebooks.jpg   //macmagazine.com.br/wp-content/uploads/2015/03/09-tabela-notebooks.jpg
+61d3b0   61d3b0
+pq   pq
+ó…   ó…
+chances   chanc
+</sent>
+<sent>
+<class> 1 </class>
+<id> 291 </id>
+amor   am
+primeira   prim
+vista   vist
+</sent>
+<sent>
+<class> -1 </class>
+<id> 292 </id>
+esperando   esper
+deitado   deit
+promoção   promoç
+dellnobrasil   dellnobrasil
+</sent>
+<sent>
+<class> -1 </class>
+<id> 293 </id>
+vou   vou
+comprar   compr
+notebook   notebook
+hp   hp
+dell   dell
+merda   merd
+</sent>
+<sent>
+<class> -1 </class>
+<id> 294 </id>
+programa   program
+dell   dell
+q   q
+vem   vem
+instalado   instal
+notebook   notebook
+fica   fic
+travando   trav
+audio   audi
+</sent>
+<sent>
+<class> -1 </class>
+<id> 295 </id>
+dellajudapro   dellajudapr
+monitor   moni
+notebook   notebook
+dell   dell
+novo   nov
+linha   linh
+clara   cl
+horizontal   horizont
+</sent>
+<sent>
+<class> -1 </class>
+<id> 296 </id>
+</sent>
+<sent>
+<class> -1 </class>
+<id> 297 </id>
+aparentemente   aparent
+notebook   notebook
+dell   dell
+poucos   pouc
+simplesmente   simples
+funcionam   funcion
+con   con
+microsoft   microsoft
+wireless   wireles
+display   display
+adapter   adapt
+</sent>
+<sent>
+<class> 1 </class>
+<id> 298 </id>
+melhor   melhor
+desse   dess
+notebook   notebook
+dell   dell
+eh   eh
+liga   lig
+desliga   deslig
+tao   tao
+rápido   rápid
+s2   s2
+</sent>
+<sent>
+<class> 1 </class>
+<id> 299 </id>
+notebook   notebook
+dell   dell
+pai   pai
+trava   tr
+rápido   rápid
+p   p
+crl   crl
+</sent>
+<sent>
+<class> 1 </class>
+<id> 300 </id>
+finalmente   final
+notebook   notebook
+funcionando   funcion
+novamente   nov
+bom   bom
+dell   dell
+merece   merec
+falo   fal
+todo   tod
+serviço   serviç
+http   http
+//fb.me/40r8104v0   //fb.me/40r8104v0
+</sent>
+<sent>
+<class> -1 </class>
+<id> 301 </id>
+comprei   compr
+notebook   notebook
+dell   dell
+vale   val
+ligo   lig
+assistência   assist
+</sent>
+<sent>
+<class> -1 </class>
+<id> 302 </id>
+notebook   notebook
+bosta   bost
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 303 </id>
+sobre   sobr
+touch   touch
+mouse   mous
+novo   nov
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 304 </id>
+vai   vai
+toma   tom
+cu   cu
+notebook   notebook
+dell   dell
+bom   bom
+</sent>
+<sent>
+<class> 1 </class>
+<id> 305 </id>
+pai   pai
+deu   deu
+notebook   notebook
+dell   dell
+tão   tão
+lindo   lind
+tô   tô
+chorando   chor
+sangue   sang
+3   3
+</sent>
+<sent>
+<class> -1 </class>
+<id> 306 </id>
+dá   dá
+pra   pra
+comprar   compr
+outro   outr
+notebook   notebook
+novo   nov
+cm   cm
+valor   val
+deste   dest
+reparo   repar
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 307 </id>
+p/   p/
+notebook   notebook
+dell   dell
+prepare   prepar
+qdo   qdo
+máquina   máquin
+fizer   fiz
+5   5
+anos   ano
+</sent>
+<sent>
+<class> -1 </class>
+<id> 308 </id>
+dell   dell
+manda   mand
+dois   doi
+emails   email
+dia   dia
+</sent>
+<sent>
+<class> 1 </class>
+<id> 309 </id>
+dellajuda   dellajud
+6   6
+dias   dia
+úteis   útel
+técnico   técn
+veio   vei
+casa   cas
+realizou   realiz
+reparo   repar
+notebook   notebook
+parabéns   parabém
+</sent>
+<sent>
+<class> -1 </class>
+<id> 310 </id>
+suporte   suport
+dellnobrasil   dellnobrasil
+ligou   lig
+pro   pro
+numero   numer
+errado   err
+</sent>
+<sent>
+<class> -1 </class>
+<id> 311 </id>
+quero   quer
+processar   process
+dell   dell
+tweets   tweet
+sobre   sobr
+horário   hor
+verão   ver
+perdidos   perd
+pq   pq
+notebook   notebook
+reiniciou   reinici
+</sent>
+<sent>
+<class> 1 </class>
+<id> 312 </id>
+3   3
+meses   mes
+notebook   notebook
+dell   dell
+linux   linux
+</sent>
+<sent>
+<class> 1 </class>
+<id> 313 </id>
+chego   cheg
+uns   um
+notebook   notebook
+dell   dell
+aqui   aqu
+loja   loj
+deixa   deix
+boca   boc
+aberta   abert
+tão   tão
+top   top
+</sent>
+<sent>
+<class> 1 </class>
+<id> 314 </id>
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 315 </id>
+problema   problem
+semelhante   semelh
+notebook   notebook
+dell   dell
+tralha   tralh
+500mb   500mb
+drivers   driv
+aplicacoes   aplicaco
+suporte   suport
+leitor   leit
+impressão   impress
+digital   digit
+nao…   nao…
+</sent>
+<sent>
+<class> 1 </class>
+<id> 316 </id>
+notebook   notebook
+dell   dell
+tão   tão
+bão   bão
+</sent>
+<sent>
+<class> 1 </class>
+<id> 317 </id>
+ebaaa   ebaa
+ganhei   ganh
+notebook   notebook
+novo   nov
+dell   dell
+woohoo   wooho
+</sent>
+<sent>
+<class> -1 </class>
+<id> 318 </id>
+notebook   notebook
+6   6
+meses   mes
+hibernando   hibern
+7   7
+%   %
+bateria   bat
+maldita   maldit
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 319 </id>
+paciência   paci
+pra   pra
+dell   dell
+querendo   quer
+analisar   analis
+sistema   sistem
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 320 </id>
+engraçado   engraç
+</sent>
+<sent>
+<class> 1 </class>
+<id> 321 </id>
+preciso   precis
+notebook   notebook
+dell   dell
+nao   nao
+aguento   aguent
+porra   porr
+samsung   samsung
+</sent>
+<sent>
+<class> -1 </class>
+<id> 322 </id>
+alguém   alguém
+notebook   notebook
+dell   dell
+sabe   sab
+tirar   tir
+caralha   caralh
+desse   dess
+brilho   brilh
+adaptavel   adapta
+</sent>
+<sent>
+<class> -1 </class>
+<id> 323 </id>
+dell   dell
+deixo   deix
+aqui   aqu
+insatisfação   insatisf
+dell   dell
+técnico   técn
+fez   fez
+atendimento   atend
+garantia   garant
+notebook   notebook
+nro   nro
+rs   rs
+898255867   898255867
+</sent>
+<sent>
+<class> -1 </class>
+<id> 324 </id>
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 325 </id>
+comprei   compr
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 326 </id>
+reconhecimento   reconhec
+público   públic
+atendimento   atend
+dell   dell
+prestadora   prest
+aqui   aqu
+excelente   excel
+</sent>
+<sent>
+<class> -1 </class>
+<id> 327 </id>
+galera   gal
+nao   nao
+comprem   compr
+notebook   notebook
+dell   dell
+dellnobrasil   dellnobrasil
+porque   porqu
+futuro   futur
+vc   vc
+quiser   quis
+atualiza-lo   atualiza-l
+nao   nao
+vai   vai
+poder   pod
+......   ......
+</sent>
+<sent>
+<class> -1 </class>
+<id> 328 </id>
+acho   ach
+juninho   jun
+famoso   fam
+cara   car
+chat   chat
+dell   dell
+nunca   nunc
+viu   viu
+notebook   notebook
+vida   vid
+</sent>
+<sent>
+<class> -1 </class>
+<id> 329 </id>
+esquecido   esquec
+notebook   notebook
+kkk   kkk
+ae   ae
+recebo   receb
+email   email
+dell   dell
+informando   inform
+hj   hj
+começaram   começ
+arrumar   arrum
+</sent>
+<sent>
+<class> 1 </class>
+<id> 330 </id>
+ahuahuahuahua   ahuahuahuahu
+</sent>
+<sent>
+<class> 1 </class>
+<id> 331 </id>
+amor   am
+responde   respond
+nome   nom
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 332 </id>
+dell   dell
+cobre   cobr
+notebook   notebook
+molhado   molh
+samsung   samsung
+gente   gent
+mundo   mund
+ler   ler
+coisa   cois
+antes   ant
+comprar   compr
+molhar   molh
+</sent>
+<sent>
+<class> 1 </class>
+<id> 333 </id>
+to   to
+deitando   deit
+posição   pos
+fetal   fetal
+pensando   pens
+pq   pq
+n   n
+comprei   compr
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 334 </id>
+creiam   cre
+</sent>
+<sent>
+<class> 1 </class>
+<id> 335 </id>
+quero   quer
+comprar   compr
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 336 </id>
+nada   nad
+notebook   notebook
+comprei   compr
+chegar   cheg
+</sent>
+<sent>
+<class> 1 </class>
+<id> 337 </id>
+amanhã   amanhã
+técnico   técn
+dell   dell
+vem   vem
+arrumar   arrum
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 338 </id>
+existe   exist
+notebook   notebook
+dell   dell
+15   15
+mil   mil
+reais   real
+gente   gent
+deus   deu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 339 </id>
+q   q
+havia   hav
+comprado   compr
+notebook   notebook
+dell   dell
+apostando   apost
+suporte   suport
+rápido   rápid
+</sent>
+<sent>
+<class> 1 </class>
+<id> 340 </id>
+parabéns   parabém
+dell   dell
+ter   ter
+feito   feit
+notebook   notebook
+tão   tão
+fácil   fácil
+prático   prát
+fazer   faz
+manutenção   manutenç
+</sent>
+<sent>
+<class> -1 </class>
+<id> 341 </id>
+lá   lá
+vai   vai
+role   rol
+ligar   lig
+dell   dell
+aí   aí
+falar   fal
+código   códig
+lá   lá
+falar   fal
+garantia   garant
+falar   fal
+notebook   notebook
+carga   carg
+alguma   algum
+</sent>
+<sent>
+<class> -1 </class>
+<id> 342 </id>
+vez   vez
+fazer   faz
+upgrade   upgrad
+notebook   notebook
+vista   vist
+win7   win7
+</sent>
+<sent>
+<class> -1 </class>
+<id> 343 </id>
+momento   moment
+cerca   cerc
+15   15
+ligações   lig
+pra   pra
+tentar   tent
+resolver   resolv
+problema   problem
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 344 </id>
+agradeço   agradeç
+quiser   quis
+dar   dar
+notebook   notebook
+novo   nov
+dessa   dess
+vez   vez
+quero   quer
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 345 </id>
+falo   fal
+dell   dell
+sabe   sab
+fazer   faz
+carregador   carreg
+notebook   notebook
+dure   dur
+porque   porqu
+1ª   1ª
+vez   vez
+deu   deu
+problema   problem
+vi   vi
+muitas   muit
+</sent>
+<sent>
+<class> -1 </class>
+<id> 346 </id>
+davireisilva   davireisilv
+sim   sim
+diminui   diminu
+ódio   ódi
+dell   dell
+sabe   sab
+fazer   faz
+carregador   carreg
+dure   dur
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 347 </id>
+tá   tá
+barato   barat
+fácil   fácil
+comprar   compr
+notebook   notebook
+próprio   própri
+site   sit
+dell   dell
+lojas   loj
+online   onlin
+submarino   submarin
+cia   cia
+</sent>
+<sent>
+<class> -1 </class>
+<id> 348 </id>
+mandar   mand
+outro   outr
+email   email
+pra   pra
+dell   dell
+porque   porqu
+notebook   notebook
+ta   ta
+problema   problem
+lcd   lcd
+novo   nov
+inferno   infern
+</sent>
+<sent>
+<class> -1 </class>
+<id> 349 </id>
+carolho   carolh
+dell   dell
+demora   dem
+mto   mto
+pra   pra
+entregar   entreg
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 350 </id>
+notebook   notebook
+lindo   lind
+maleficent   maleficent
+dell   dell
+http   http
+//instagram.com/p/x-fz04j6wy/   //instagram.com/p/x-fz04j6wy/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 351 </id>
+diferença   diferenç
+pedir   ped
+pra   pra
+dell   dell
+trocar   troc
+tela   tel
+notebook   notebook
+comprar   compr
+mercado   merc
+livre   livr
+trocar   troc
+maomeno   maomen
+mil   mil
+reais   real
+</sent>
+<sent>
+<class> -1 </class>
+<id> 352 </id>
+além   além
+vir   vir
+baidu   baidu
+pc   pc
+fast   fast
+</sent>
+<sent>
+<class> -1 </class>
+<id> 353 </id>
+sugiro   sugir
+comprem   compr
+notebook   notebook
+qualquer   qualqu
+outro   outr
+aparelhos   aparelh
+dell   dell
+nada   nad
+funciona   func
+</sent>
+<sent>
+<class> -1 </class>
+<id> 354 </id>
+dois   doi
+produtos   produt
+dell   dell
+notebook   notebook
+tablet   tablet
+tablet   tablet
+quebrou   quebr
+touch   touch
+</sent>
+<sent>
+<class> 1 </class>
+<id> 355 </id>
+comprei   compr
+notebook   notebook
+dell   dell
+faz   faz
+menos   menos
+mês   mê
+</sent>
+<sent>
+<class> -1 </class>
+<id> 356 </id>
+dell   dell
+vende   vend
+notebook   notebook
+problemas   problem
+fica   fic
+criando   cri
+dificuldades   dificuldad
+pra   pra
+resolver   resolv
+problema   problem
+nunca   nunc
+</sent>
+<sent>
+<class> -1 </class>
+<id> 357 </id>
+vou   vou
+conversar   convers
+amanhã   amanhã
+cara   car
+dell   dell
+pra   pra
+ver   ver
+tecnico   tecn
+vai   vai
+vir   vir
+aqui   aqu
+casa   cas
+tentar   tent
+arrumar   arrum
+problema   problem
+notebook   notebook
+</sent>
+<sent>
+<class> 1 </class>
+<id> 358 </id>
+quero   quer
+notebook   notebook
+dell   dell
+volta   volt
+pfvr   pfvr
+</sent>
+<sent>
+<class> 1 </class>
+<id> 359 </id>
+amooo   amoo
+notebook   notebook
+dell   dell
+corei7   corei7
+</sent>
+<sent>
+<class> -1 </class>
+<id> 360 </id>
+comprei   compr
+bateria   bat
+dell   dell
+notebook   notebook
+veio   vei
+errada   err
+danificada   danific
+dell   dell
+troca   troc
+pois   poi
+passaram   pass
+7   7
+dias   dia
+apos   apo
+recebimento   receb
+foda   fod
+</sent>
+<sent>
+<class> -1 </class>
+<id> 361 </id>
+serio   seri
+nunca   nunc
+precisem   precis
+desmontar   desmont
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 362 </id>
+todo   tod
+mundo   mund
+sabe   sab
+mata   mat
+notebook   notebook
+temperatura   temperat
+hp   hp
+dell   dell
+esquentam   esquent
+processador   process
+forçar   forç
+desligamento   deslig
+</sent>
+<sent>
+<class> 1 </class>
+<id> 363 </id>
+vowlenhart   vowlenhart
+notebook   notebook
+dell   dell
+3   3
+anos   ano
+formatar   format
+boa   boa
+marca   marc
+qualidade   qual
+</sent>
+<sent>
+<class> -1 </class>
+<id> 364 </id>
+paga   pag
+3   3
+pau   pau
+notebook   notebook
+dell   dell
+bixiga   bixig
+tá   tá
+lenta   lent
+antigo   antig
+pc   pc
+celeron   celeron
+</sent>
+<sent>
+<class> 1 </class>
+<id> 365 </id>
+vontade   vontad
+esganar   esgan
+pai   pai
+ter   ter
+comprado   compr
+notebook   notebook
+samsung   samsung
+mesma   mesm
+falo   fal
+dell   dell
+melhor   melhor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 366 </id>
+dellnobrasil   dellnobrasil
+vendeu   vend
+notebook   notebook
+defeito   defeit
+troca   troc
+deve   dev
+estar   est
+vindo   vind
+china   chin
+pé   pé
+quase   quas
+30   30
+dias   dia
+aí   aí
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 367 </id>
+recebi   receb
+email   email
+dell   dell
+dando   dand
+parabéns   parabém
+ter   ter
+adquirido   adquir
+notebook   notebook
+mês   mê
+sendo   send
+ta   ta
+funcionando   funcion
+</sent>
+<sent>
+<class> -1 </class>
+<id> 368 </id>
+levar   lev
+notebook   notebook
+pro   pro
+correios   correi
+agora   agor
+esperar   esper
+dell   dell
+arrumar   arrum
+mandar   mand
+bom   bom
+sinto   sint
+vai   vai
+demorar   demor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 369 </id>
+nunca   nunc
+vou   vou
+comprar   compr
+notebook   notebook
+dell   dell
+novamente   nov
+</sent>
+<sent>
+<class> -1 </class>
+<id> 370 </id>
+hd   hd
+notebook   notebook
+dell   dell
+estragou   estrag
+ano   ano
+uso   uso
+gg   gg
+</sent>
+<sent>
+<class> 1 </class>
+<id> 371 </id>
+deu   deu
+coisa   cois
+linda   lind
+notebook   notebook
+dell   dell
+quero   quer
+http   http
+//www.theverge.com/2015/1/6/7501385/dell-xps-13-2015-edition-announced-at-ces-2015   //www.theverge.com/2015/1/6/7501385/dell-xps-13-2015-edition-announced-at-ces-2015
+</sent>
+<sent>
+<class> 1 </class>
+<id> 372 </id>
+decidido   decid
+comprar   compr
+notebook   notebook
+aí   aí
+dell   dell
+vai   vai
+anuncia   anunc
+fino   fin
+mackbook   mackbook
+air   air
+</sent>
+<sent>
+<class> 1 </class>
+<id> 373 </id>
+nunca   nunc
+pensei   pens
+acharia   ach
+notebook   notebook
+dell   dell
+tão   tão
+daora   daor
+https   http
+//www.youtube.com/watch   //www.youtube.com/watch
+v=4owwgpnrikc   v=4owwgpnrikc
+</sent>
+<sent>
+<class> 1 </class>
+<id> 374 </id>
+nesse   ness
+exato   exat
+momento   moment
+quero   quer
+notebook   notebook
+dell   dell
+novo   nov
+</sent>
+<sent>
+<class> -1 </class>
+<id> 375 </id>
+olha   olh
+preço   preç
+macbook   macbook
+pensa   pens
+vou   vou
+ver   ver
+preço   preç
+dell   dell
+ve   ve
+preços   preç
+dell   dell
+arrumo   arrum
+notebook   notebook
+u.u   u.u
+</sent>
+<sent>
+<class> 1 </class>
+<id> 376 </id>
+legal   legal
+travesseiros   travess
+notebook   notebook
+dell   dell
+link   link
+permanente   permanent
+imagem   imag
+incorporada   incorpor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 377 </id>
+condições   cond
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 378 </id>
+vai   vai
+tomar   tom
+cu   cu
+dell   dell
+caralho   caralh
+nao   nao
+aguento   aguent
+segundo   segund
+notebook   notebook
+problema   problem
+mousepad   mousepad
+</sent>
+<sent>
+<class> 1 </class>
+<id> 379 </id>
+acho   ach
+vale   val
+pena   pen
+ultrapassar   ultrapass
+pouco   pouc
+orçamento   orç
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 380 </id>
+cá   cá
+paquerando   paquer
+notebook   notebook
+maravilhoso   maravilh
+dell   dell
+comprarei   compr
+breve   brev
+</sent>
+<sent>
+<class> 1 </class>
+<id> 381 </id>
+algumaanna   algumaann
+felipe_fgnds   felipe_fgnd
+note   not
+gosto   gost
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 382 </id>
+rafaael_dc   rafaael_dc
+po   po
+</sent>
+<sent>
+<class> -1 </class>
+<id> 383 </id>
+microsoftbr   microsoftbr
+atualização   atual
+win8   win8
+10   10
+originais   orig
+novamente   nov
+danificou   danific
+note   not
+pagará   pag
+reparo   repar
+r   r
+$   $
+700   700
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 384 </id>
+dell   dell
+dellnobrasil   dellnobrasil
+parabéns   parabém
+péssimo   péss
+serviço   serviç
+hell   hell
+desk   desk
+etiqueta   etiquet
+fundo   fund
+note   not
+apaga   apag
+</sent>
+<sent>
+<class> -1 </class>
+<id> 385 </id>
+talvez   talv
+trocar   troc
+note   not
+sido   sid
+boa   boa
+opção   opç
+rodava   rod
+boa   boa
+hp   hp
+</sent>
+<sent>
+<class> 1 </class>
+<id> 386 </id>
+tava   tav
+lembrando   lembr
+aqui   aqu
+q   q
+note   not
+ja   ja
+ta   ta
+pra   pra
+completar   complet
+3   3
+anos   ano
+</sent>
+<sent>
+<class> -1 </class>
+<id> 387 </id>
+porra   porr
+note   not
+dell   dell
+estragou   estrag
+novo   nov
+delllixo   delllix
+notedell   notedell
+lixo   lix
+</sent>
+<sent>
+<class> 1 </class>
+<id> 388 </id>
+lindo   lind
+note   not
+</sent>
+<sent>
+<class> -1 </class>
+<id> 389 </id>
+dell   dell
+agindo   agind
+boa   boa
+fé   fé
+comigo   comig
+renoveu   renov
+suporte   suport
+note   not
+2016   2016
+30   30
+meses   mes
+exigem   exig
+nf   nf
+pra   pra
+atender   atend
+</sent>
+<sent>
+<class> -1 </class>
+<id> 390 </id>
+hey_mika   hey_mik
+sim   sim
+note   not
+dell   dell
+sempre   sempr
+problema   problem
+wifi   wif
+</sent>
+<sent>
+<class> 1 </class>
+<id> 391 </id>
+lembro   lembr
+ter   ter
+visto   vist
+dell   dell
+pra   pra
+</sent>
+<sent>
+<class> 1 </class>
+<id> 392 </id>
+preciso   precis
+note   not
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 393 </id>
+vazio_   vazio_
+cara   car
+</sent>
+<sent>
+<class> 1 </class>
+<id> 394 </id>
+dell   dell
+surpreendeu   surpreend
+suporte   suport
+</sent>
+<sent>
+<class> -1 </class>
+<id> 395 </id>
+vou   vou
+ter   ter
+chamar   cham
+técnico   técn
+dell   dell
+pq   pq
+tela   tel
+note   not
+ta   ta
+pintinha   pint
+aff   aff
+ja   ja
+comprei   compr
+logo   log
+dell   dell
+pq   pq
+pensei   pens
+nao   nao
+dar   dar
+problema   problem
+</sent>
+<sent>
+<class> -1 </class>
+<id> 396 </id>
+note   not
+antigo   antig
+hp   hp
+aq   aq
+uns   um
+5   5
+anos   ano
+ainda   aind
+funciona   func
+blz   blz
+lento   lent
+aí   aí
+dell   dell
+apronta   apront
+dessas   dess
+</sent>
+<sent>
+<class> 1 </class>
+<id> 397 </id>
+note   not
+novo   nov
+amorzinho   am
+</sent>
+<sent>
+<class> -1 </class>
+<id> 398 </id>
+confirmando   confirm
+dell   dell
+nunca   nunc
+jaeras   jaer
+note   not
+https   http
+//instagram.com/p/6mr4iotwgc/   //instagram.com/p/6mr4iotwgc/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 399 </id>
+vieiracamila   vieiracamil
+</sent>
+<sent>
+<class> 1 </class>
+<id> 400 </id>
+note   not
+começando   começ
+ser   ser
+frango   frang
+traves   trav
+vida   vid
+olha   olh
+q   q
+dell   dell
+marca   marc
+maravilha   maravilh
+q   q
+todo   tod
+ser   ser
+vivente   vivent
+indicou   indic
+comprei   compr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 401 </id>
+acho   ach
+próxima   próx
+vez   vez
+comprar   compr
+note   not
+cruzo   cruz
+fronteira   fronteir
+</sent>
+<sent>
+<class> -1 </class>
+<id> 402 </id>
+ruisantoos   ruisanto
+dell   dell
+sabe   sab
+fresco   fresc
+sempre   sempr
+vacila   vacil
+pra   pra
+entregar   entreg
+note   not
+</sent>
+<sent>
+<class> 1 </class>
+<id> 403 </id>
+último   últ
+note   not
+dell   dell
+red   red
+</sent>
+<sent>
+<class> -1 </class>
+<id> 404 </id>
+note   not
+18   18
+meses   mes
+4gb   4gb
+memória   memór
+suporta   suport
+1   1
+firefox   firefox
+2   2
+planilhas.como   planilhas.c
+vou   vou
+trabalhar   trabalh
+dessa   dess
+forma   form
+dellajudapro   dellajudapr
+dell   dell
+michaeldell   michaeldell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 405 </id>
+descaso   descas
+total   total
+dell   dell
+dellajudapro   dellajudapr
+michaeldell   michaeldell
+comigo   comig
+paguei   pag
+note   not
+vista   vist
+ainda   aind
+solicitei   solicit
+assistência   assist
+residencial   resid
+nunca   nunc
+vieram   vier
+</sent>
+<sent>
+<class> -1 </class>
+<id> 406 </id>
+fabiohara   fabioh
+hara   har
+desculpe   desculp
+incomoda-lo   incomoda-l
+note   not
+dell   dell
+após   após
+atualizar   atual
+windows   window
+10   10
+simplesmente   simples
+liga   lig
+modelo   model
+inspiron   inspiron
+14z   14z
+</sent>
+<sent>
+<class> -1 </class>
+<id> 407 </id>
+vejo   vej
+chupa   chup
+rola   rol
+dell   dell
+pqp   pqp
+</sent>
+<sent>
+<class> -1 </class>
+<id> 408 </id>
+atendimento   atend
+porco   porc
+recomendo   recom
+dell   dell
+pra   pra
+ninguém   ninguém
+decepcionado   decepcion
+precisando   precis
+urgente   urgent
+note   not
+</sent>
+<sent>
+<class> 1 </class>
+<id> 409 </id>
+satisfeito   satisfeit
+note   not
+dell   dell
+aqui   aqu
+</sent>
+<sent>
+<class> 1 </class>
+<id> 410 </id>
+achava   ach
+placa   plac
+video   vide
+note   not
+super   sup
+bosta   bost
+</sent>
+<sent>
+<class> 1 </class>
+<id> 411 </id>
+moby_vmg   moby_vmg
+dell   dell
+top   top
+</sent>
+<sent>
+<class> -1 </class>
+<id> 412 </id>
+telmachristiane   telmachristian
+primeiro   prim
+note   not
+dell   dell
+experiência   experi
+boa   boa
+outro   outr
+acer   ac
+nunca   nunc
+deu   deu
+problema   problem
+</sent>
+<sent>
+<class> 1 </class>
+<id> 413 </id>
+to   to
+surpreso   surpres
+note   not
+dell   dell
+monte   mont
+problema   problem
+driver   driv
+windows   window
+8   8
+parece   parec
+agora   agor
+posso   poss
+atualizar   atual
+medo   med
+</sent>
+<sent>
+<class> -1 </class>
+<id> 414 </id>
+alegria   alegr
+win10   win10
+note   not
+vejo   vej
+q   q
+nao   nao
+consigo   consig
+ajustar   ajust
+brilho   brilh
+tela   tel
+descubro   descubr
+dell   dell
+atualizou   atualiz
+todos   tod
+drivers   driv
+fudeo   fude
+</sent>
+<sent>
+<class> -1 </class>
+<id> 415 </id>
+dell   dell
+recusou   recus
+prestar   prest
+suporte   suport
+note   not
+pois   poi
+atualizei   atualiz
+windows   window
+10   10
+chave   chav
+fornecida   fornec
+mesmos   mesm
+escroto   escrot
+</sent>
+<sent>
+<class> -1 </class>
+<id> 416 </id>
+platoniaco   platoniac
+aham   ah
+dei   dei
+azar   azar
+acho   ach
+note   not
+vive   viv
+dando   dand
+problema   problem
+assistência   assist
+dell   dell
+fala   fal
+incompatibilidade   incompatibil
+w   w
+8.1   8.1
+</sent>
+<sent>
+<class> -1 </class>
+<id> 417 </id>
+conseguindo   consegu
+assistir   assist
+séries   séri
+note   not
+</sent>
+<sent>
+<class> 1 </class>
+<id> 418 </id>
+note   not
+resolveu   resolv
+ligar   lig
+2   2
+anos   ano
+dell   dell
+amo   amo
+</sent>
+<sent>
+<class> -1 </class>
+<id> 419 </id>
+nunca   nunc
+vi   vi
+note   not
+recém   recém
+novo   nov
+travar   trav
+velho   velh
+</sent>
+<sent>
+<class> -1 </class>
+<id> 420 </id>
+maldita   maldit
+dell   dell
+deixa   deix
+carregar   carreg
+bateria   bat
+note   not
+amanhã   amanhã
+vai   vai
+ter   ter
+luz   luz
+</sent>
+<sent>
+<class> -1 </class>
+<id> 421 </id>
+eras   era
+dell   dell
+demorar   demor
+menos   menos
+pra   pra
+atualizar   atual
+note   not
+eras   era
+</sent>
+<sent>
+<class> -1 </class>
+<id> 422 </id>
+tocadolobo   tocadolob
+proveisso   proveiss
+note   not
+dell   dell
+começou   começ
+reiniciar   reinici
+nada   nad
+problema   problem
+0xc000021a   0xc000021
+</sent>
+<sent>
+<class> -1 </class>
+<id> 423 </id>
+terceira   terc
+vez   vez
+9   9
+meses   mes
+</sent>
+<sent>
+<class> -1 </class>
+<id> 424 </id>
+achava   ach
+dell   dell
+boa   boa
+</sent>
+<sent>
+<class> -1 </class>
+<id> 425 </id>
+note   not
+novo   nov
+</sent>
+<sent>
+<class> -1 </class>
+<id> 426 </id>
+jess   jes
+retweetou   retweet
+dell   dell
+brasil   brasil
+gnt   gnt
+n   n
+confia   conf
+nesse   ness
+papo   pap
+dell   dell
+melhor   melhor
+suporte   suport
+n   n
+</sent>
+<sent>
+<class> -1 </class>
+<id> 427 </id>
+cara   car
+pq   pq
+note   not
+dell   dell
+quero   quer
+propaganinha   propagan
+5   5
+5   5
+min   min
+pc   pc
+obrigada   obrig
+denada   den
+</sent>
+<sent>
+<class> 1 </class>
+<id> 428 </id>
+eh   eh
+bom   bom
+ter   ter
+note   not
+novo   nov
+</sent>
+<sent>
+<class> 1 </class>
+<id> 429 </id>
+dell   dell
+dell   dell
+sistema   sistem
+ventilação   ventil
+duplo   dupl
+note   not
+ultrabook   ultrabook
+dell   dell
+show   show
+dell   dell
+https   http
+//instagram.com/p/4pdqegydpb/   //instagram.com/p/4pdqegydpb/
+</sent>
+<sent>
+<class> 1 </class>
+<id> 430 </id>
+patrãozinho   patrã
+vai   vai
+dar   dar
+note   not
+dell   dell
+i7   i7
+8   8
+gb   gb
+ram   ram
+pra   pra
+trabalhar   trabalh
+</sent>
+<sent>
+<class> -1 </class>
+<id> 431 </id>
+problema   problem
+dell   dell
+windows   window
+8.1   8.1
+</sent>
+<sent>
+<class> 1 </class>
+<id> 432 </id>
+agora   agor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 433 </id>
+ainda   aind
+tô   tô
+processando   process
+dell   dell
+queria   quer
+cobrar   cobr
+pra   pra
+trocar   troc
+tela   tel
+note   not
+sério   séri
+tô   tô
+chocada   choc
+</sent>
+<sent>
+<class> -1 </class>
+<id> 434 </id>
+dell   dell
+enlouqueceu   enlouquec
+quer   qu
+cobrar   cobr
+r   r
+$   $
+1.603   1.603
+</sent>
+<sent>
+<class> 1 </class>
+<id> 435 </id>
+theashura   theash
+tô   tô
+juntando   junt
+dinheiro   dinh
+pra   pra
+comprar   compr
+desktop   desktop
+fodástico   fodás
+dell   dell
+enquanto   enquant
+virar   vir
+note   not
+</sent>
+<sent>
+<class> -1 </class>
+<id> 436 </id>
+nao   nao
+dell   dell
+https   http
+//notegraphy.com/wifilles93/note/1837870   //notegraphy.com/wifilles93/note/1837870
+link   link
+permanente   permanent
+imagem   imag
+incorporada   incorpor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 437 </id>
+coisasdogeek   coisasdogeek
+dellnobrasil   dellnobrasil
+gostava   gost
+dell   dell
+possível   possível
+montar   mont
+pc/note   pc/not
+configurações   configur
+desejadas   desej
+</sent>
+<sent>
+<class> -1 </class>
+<id> 438 </id>
+amor   am
+deus   deu
+dell   dell
+faz   faz
+note   not
+tão   tão
+ruim   ruim
+sos   so
+mac   mac
+</sent>
+<sent>
+<class> -1 </class>
+<id> 439 </id>
+note   not
+dell   dell
+tão   tão
+ruim   ruim
+</sent>
+<sent>
+<class> -1 </class>
+<id> 440 </id>
+note   not
+tao   tao
+bonitinho   bonit
+chegou   cheg
+agora   agor
+ta   ta
+desgraça   desgr
+pra   pra
+remover   remov
+todos   tod
+virus   viru
+quase   quas
+mandando   mand
+pra   pra
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 441 </id>
+pelearrepiada   pelearrepi
+dell   dell
+note   not
+tá   tá
+2   2
+anos   ano
+2   2
+meses   mes
+tá   tá
+caducando   caduc
+praticamente   pratic
+uso   uso
+word   word
+internet   internet
+</sent>
+<sent>
+<class> 1 </class>
+<id> 442 </id>
+opsbruxo   opsbrux
+irmão   irm
+note   not
+dell   dell
+boa   boa
+marca   marc
+acho   ach
+</sent>
+<sent>
+<class> -1 </class>
+<id> 443 </id>
+caraca   carac
+note   not
+tá   tá
+dando   dand
+trabalho   trabalh
+tecnico   tecn
+porque   porqu
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 444 </id>
+rapaz   rapaz
+note   not
+sony   sony
+nao   nao
+dá   dá
+</sent>
+<sent>
+<class> -1 </class>
+<id> 445 </id>
+burra   burr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 446 </id>
+alerta   alert
+comprem   compr
+site   sit
+dell   dell
+comprei   compr
+note   not
+500   500
+gb   gb
+site   sit
+dell   dell
+achei   ach
+site   sit
+extra   extr
+barato   barat
+1t   1t
+link   link
+permanente   permanent
+imagem   imag
+incorporada   incorpor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 447 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+fiz   fiz
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13299560/dell-computadores-do-brasil/dell-nao-atende-seus-clientes-note-parado-ha-20-dias-se   //www.reclameaqui.com.br/13299560/dell-computadores-do-brasil/dell-nao-atende-seus-clientes-note-parado-ha-20-dias-s
+</sent>
+<sent>
+<class> -1 </class>
+<id> 448 </id>
+tentando   tent
+recuperar   recuper
+note   not
+dellajuda   dellajud
+ta   ta
+difícil   difícil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13267513/dell-computadores-do-brasil/sem-suporte/   //www.reclameaqui.com.br/13267513/dell-computadores-do-brasil/sem-suporte/
+ver   ver
+resumo   resum
+</sent>
+<sent>
+<class> -1 </class>
+<id> 449 </id>
+1   1
+hora   hor
+46   46
+min   min
+tempo   temp
+q   q
+fiquei   fiq
+tel   tel
+cara   car
+dell   dell
+pra   pra
+dar   dar
+jeito   jeit
+nesse   ness
+note   not
+</sent>
+<sent>
+<class> -1 </class>
+<id> 450 </id>
+cadeaness   cadeanes
+kevinmonteiroo   kevinmonteiro
+pc   pc
+dell   dell
+eh   eh
+so   so
+amor   am
+recentemente   recent
+comprei   compr
+note   not
+15   15
+dias   dia
+tava   tav
+travando   trav
+resumindo   resum
+procon   procon
+</sent>
+<sent>
+<class> -1 </class>
+<id> 451 </id>
+nada   nad
+pior   pi
+acordar   acord
+ligar   lig
+note   not
+descobrir   descobr
+queimou   queim
+placa   plac
+wifi   wif
+/3   /3
+dell   dell
+dellajuda   dellajud
+</sent>
+<sent>
+<class> -1 </class>
+<id> 452 </id>
+dellnobrasil   dellnobrasil
+dell   dell
+desrespeita   desrespeit
+consumidor   consum
+</sent>
+<sent>
+<class> 1 </class>
+<id> 453 </id>
+ai   ai
+mãe   mãe
+interrompe   interromp
+atualização   atual
+note   not
+liga   lig
+obg   obg
+dell   dell
+dellbrasil   dellbrasil
+atenção   atenç
+</sent>
+<sent>
+<class> -1 </class>
+<id> 454 </id>
+menos   menos
+vou   vou
+vender   vend
+finalmente   final
+note   not
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 455 </id>
+sdds   sdd
+note   not
+dell   dell
+sempre   sempr
+achei   ach
+lenovo   lenov
+cara   car
+coisa   cois
+vagabunda   vagabund
+técnicozões   técn
+falaram   fal
+boa   boa
+</sent>
+<sent>
+<class> -1 </class>
+<id> 456 </id>
+comprei   compr
+note   not
+dell   dell
+pouco   pouc
+antes   ant
+viajar   viaj
+férias   férias
+voltei   volt
+domingo   doming
+agora   agor
+bicho   bich
+ta   ta
+dando   dand
+problemas   problem
+pqp   pqp
+</sent>
+<sent>
+<class> -1 </class>
+<id> 457 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+técnico   técn
+au   au
+http   http
+//www.reclameaqui.com.br/12977428/dell-computadores-do-brasil/tecnico-autorizado-destruiu-meu-note-na-garantia-e-a-del   //www.reclameaqui.com.br/12977428/dell-computadores-do-brasil/tecnico-autorizado-destruiu-meu-note-na-garantia-e-a-del
+</sent>
+<sent>
+<class> -1 </class>
+<id> 458 </id>
+sério   séri
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 459 </id>
+aff   aff
+bosta   bost
+</sent>
+<sent>
+<class> -1 </class>
+<id> 460 </id>
+recebo   receb
+tanto   tant
+e-mail   e-mail
+dell   dell
+q   q
+qdo   qdo
+comprar   compr
+outro   outr
+note   not
+</sent>
+<sent>
+<class> 1 </class>
+<id> 461 </id>
+dell   dell
+melhor   melhor
+empresa   empr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 462 </id>
+simplesmente   simples
+encontro   encontr
+site   sit
+dell   dell
+faço   faç
+pra   pra
+solicitar   solic
+suporte   suport
+</sent>
+<sent>
+<class> 1 </class>
+<id> 463 </id>
+mru   mru
+irmaozinho   irma
+vo   vo
+comprq   comprq
+note   not
+dell   dell
+af   af
+fico   fic
+la   la
+trampo   tramp
+mexendo   mex
+queria   quer
+tanto   tant
+p   p
+mim   mim
+af   af
+......   ......
+</sent>
+<sent>
+<class> -1 </class>
+<id> 464 </id>
+note   not
+dá   dá
+dando   dand
+umas   uma
+travada   trav
+monstruosa   monstr
+consigo   consig
+atualizar   atual
+hardwares   hardw
+site   sit
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 465 </id>
+então   ent
+né   né
+</sent>
+<sent>
+<class> 1 </class>
+<id> 466 </id>
+dell   dell
+demais   demal
+note   not
+chegoooou   chegooo
+</sent>
+<sent>
+<class> -1 </class>
+<id> 467 </id>
+dell   dell
+cobrando   cobr
+pequena   pequen
+quantia   quant
+r   r
+$   $
+1.500   1.500
+</sent>
+<sent>
+<class> -1 </class>
+<id> 468 </id>
+dellajuda   dellajud
+última   últ
+esperança   esperanç
+comprei   compr
+note   not
+c/   c/
+office   offic
+2013   2013
+dell   dell
+mandou   mand
+chave   chav
+produto   produt
+ainda   aind
+diz   diz
+p/   p/
+resolver   resolv
+c/   c/
+microsoft   microsoft
+</sent>
+<sent>
+<class> -1 </class>
+<id> 469 </id>
+cuidado   cuid
+dell   dell
+adquiri   adquir
+note   not
+dell   dell
+office   offic
+incluído   inclu
+mandaram   mand
+chave   chav
+produto   produt
+ainda   aind
+mandam   mand
+falar   fal
+microsoft   microsoft
+</sent>
+<sent>
+<class> 1 </class>
+<id> 470 </id>
+dell   dell
+latitude   latitud
+eh   eh
+loco   loc
+demaisss   demaiss
+</sent>
+<sent>
+<class> -1 </class>
+<id> 471 </id>
+achava   ach
+dell   dell
+menos   menos
+pior   pi
+dentre   dentr
+notebooks   notebook
+to   to
+ano   ano
+quebrando   quebr
+cara   car
+note   not
+indo   ind
+voltando   volt
+assistência   assist
+</sent>
+<sent>
+<class> -1 </class>
+<id> 472 </id>
+socorro   socorr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 473 </id>
+dá   dá
+vontade   vontad
+chorar   chor
+percebo   perceb
+note   not
+novinho   nov
+comprei   compr
+dell   dell
+problemas   problem
+desde   desd
+2ª   2ª
+n   n
+fazem   faz
+nada   nad
+</sent>
+<sent>
+<class> 1 </class>
+<id> 474 </id>
+note   not
+dell   dell
+baita   bait
+configuração   configur
+valor   val
+</sent>
+<sent>
+<class> -1 </class>
+<id> 475 </id>
+gente   gent
+</sent>
+<sent>
+<class> 1 </class>
+<id> 476 </id>
+aliceperes   alicep
+ps   ps
+comprei   compr
+note   not
+dell   dell
+fera   fer
+d++   d++
+1600   1600
+</sent>
+<sent>
+<class> 1 </class>
+<id> 477 </id>
+então   ent
+</sent>
+<sent>
+<class> 1 </class>
+<id> 478 </id>
+note   not
+dell   dell
+sensacional   sensac
+</sent>
+<sent>
+<class> -1 </class>
+<id> 479 </id>
+dellajuda   dellajud
+note   not
+dell   dell
+dando   dand
+8   8
+bips   bip
+seguidos   segu
+altos   alt
+todo   tod
+momento   moment
+</sent>
+<sent>
+<class> -1 </class>
+<id> 480 </id>
+preciso   precis
+formatar   format
+note   not
+urgente   urgent
+dell   dell
+tão   tão
+chata   chat
+tentar   tent
+formatar   format
+capaz   capaz
+ferrar   ferr
+ainda   aind
+</sent>
+<sent>
+<class> 1 </class>
+<id> 481 </id>
+gente   gent
+</sent>
+<sent>
+<class> -1 </class>
+<id> 482 </id>
+bateria   bat
+note   not
+dell   dell
+parece   parec
+pro   pro
+saco   sac
+</sent>
+<sent>
+<class> 1 </class>
+<id> 483 </id>
+rouedelavie   rouedelavi
+compra   compr
+dellzao   dellza
+q   q
+dell   dell
+destroi   destro
+note   not
+games   gam
+piratas   pirat
+chupa   chup
+ea   ea
+nao   nao
+paguei   pag
+nada   nad
+</sent>
+<sent>
+<class> 1 </class>
+<id> 484 </id>
+note   not
+novo   nov
+dell   dell
+kkkkkkk   kkkkkkk
+tio   tio
+deu   deu
+doar   do
+igreja   igrej
+mto   mto
+tesão   tes
+</sent>
+<sent>
+<class> 1 </class>
+<id> 485 </id>
+dei   dei
+note   not
+acer   ac
+p   p
+pai   pai
+</sent>
+<sent>
+<class> -1 </class>
+<id> 486 </id>
+seuassis   seuassil
+recomendo   recom
+</sent>
+<sent>
+<class> -1 </class>
+<id> 487 </id>
+tava   tav
+probleminha   probl
+note.consultor   note.consul
+dell   dell
+falou   fal
+q   q
+nada   nad
+errado.agora   errado.ag
+sistema   sistem
+sendo   send
+restaurado   restaur
+erro   err
+</sent>
+<sent>
+<class> 1 </class>
+<id> 488 </id>
+atualizar   atual
+bios   bio
+note   not
+dell   dell
+suave   suav
+neh   neh
+</sent>
+<sent>
+<class> -1 </class>
+<id> 489 </id>
+pq   pq
+note   not
+dell   dell
+intel   intel
+i5   i5
+tão   tão
+caro   car
+ai   ai
+q   q
+injusto   injust
+</sent>
+<sent>
+<class> 1 </class>
+<id> 490 </id>
+obrigada   obrig
+atendente   atend
+dell   dell
+consertou   consert
+note   not
+prometo   promet
+entrar   entr
+porno   porn
+vlw   vlw
+flw   flw
+</sent>
+<sent>
+<class> -1 </class>
+<id> 491 </id>
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 492 </id>
+absolutamente   absolut
+irritado   irrit
+dell   dell
+devolveram   devolv
+note   not
+manutenção   manutenç
+vésperas   vésp
+vecto   vect
+garantia   garant
+</sent>
+<sent>
+<class> -1 </class>
+<id> 493 </id>
+formatando   format
+note   not
+pleno   plen
+domingo   doming
+sofrencia   sofrenc
+dell   dell
+inspiron   inspiron
+casadeferreiroespetodepau   casadeferreiroespetodepau
+link   link
+permanente   permanent
+imagem   imag
+incorporada   incorpor
+</sent>
+<sent>
+<class> 1 </class>
+<id> 494 </id>
+tweet   tweet
+declarar   declar
+amor   am
+dell   dell
+novo   nov
+note   not
+sensa   sens
+fodasticos   fodas
+rápido   rápid
+bjs   bj
+</sent>
+<sent>
+<class> 1 </class>
+<id> 495 </id>
+3   3
+meses   mes
+notebook   notebook
+dell   dell
+linux   linux
+</sent>
+<sent>
+<class> -1 </class>
+<id> 496 </id>
+dell   dell
+coloca   coloc
+16gb   16gb
+ram   ram
+hd   hd
+apenas   apen
+5400rpm   5400rpm
+aí   aí
+m   m
+note   not
+parece   parec
+valvulado   valvul
+preciso   precis
+comprar   compr
+ssd   ssd
+urgente   urgent
+</sent>
+<sent>
+<class> 1 </class>
+<id> 497 </id>
+aqui   aqu
+sambando   samb
+cara   car
+populaçao   populaça
+novo   nov
+notebook   notebook
+dell   dell
+woohoo   wooho
+note   not
+dell   dell
+sambo   samb
+</sent>
+<sent>
+<class> 1 </class>
+<id> 498 </id>
+johnnykatayama   johnnykatayam
+sim   sim
+3   3
+poderoso   poder
+queria   quer
+</sent>
+<sent>
+<class> 1 </class>
+<id> 499 </id>
+consegui   consegu
+trocar   troc
+note   not
+invés   invé
+mandar   mand
+pra   pra
+assistência   assist
+</sent>
+<sent>
+<class> 1 </class>
+<id> 500 </id>
+comprei   compr
+note   not
+dell   dell
+chupa   chup
+humanidade   human
+</sent>
+<sent>
+<class> -1 </class>
+<id> 501 </id>
+frustado   frust
+atendimento   atend
+dell   dell
+note   not
+c/   c/
+3   3
+semanas   seman
+deu   deu
+problema   problem
+carregador   carreg
+suporte   suport
+ficou   fic
+enviar   envi
+novo   nov
+dellajuda   dellajud
+</sent>
+<sent>
+<class> 1 </class>
+<id> 502 </id>
+comprei   compr
+note   not
+causa   caus
+excelente   excel
+suporte   suport
+dell   dell
+dellajuda   dellajud
+</sent>
+<sent>
+<class> 1 </class>
+<id> 503 </id>
+obrigado   obrig
+dell   dell
+presentinho   present
+bolsa   bols
+pra   pra
+note   not
+15   15
+hd   hd
+1tb   1tb
+consultoria   consult
+dell   dell
+rede…   rede…
+http   http
+//instagram.com/p/ychazxsdcu/   //instagram.com/p/ychazxsdcu/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 504 </id>
+precisa   precis
+suporte   suport
+dell   dell
+fim   fim
+semana   seman
+esqueça   esqueç
+problemas   problem
+carregador   carreg
+note   not
+novo   nov
+sexta   sext
+noite   noit
+</sent>
+<sent>
+<class> -1 </class>
+<id> 505 </id>
+queria   quer
+rápido   rápid
+atualização   atual
+note   not
+dell   dell
+fode   fod
+caras   car
+</sent>
+<sent>
+<class> -1 </class>
+<id> 506 </id>
+cara   car
+dell   dell
+ta   ta
+aq   aq
+troocando   trooc
+peças   peç
+note   not
+novo   nov
+espero   esper
+q   q
+resolva   resolv
+dessa   dess
+vez   vez
+</sent>
+<sent>
+<class> -1 </class>
+<id> 507 </id>
+segunda   segund
+vez   vez
+carregador   carreg
+funcionar   funcion
+misteriosamente   misterios
+dell   dell
+sabe   sab
+fazer   faz
+computador   comput
+porque   porqu
+acertar   acert
+carregador   carreg
+note   not
+</sent>
+<sent>
+<class> -1 </class>
+<id> 508 </id>
+note   not
+ta   ta
+bosta   bost
+</sent>
+<sent>
+<class> 1 </class>
+<id> 509 </id>
+finally   finally
+anos   ano
+consegui   consegu
+comprar   compr
+note   not
+melhor   melhor
+q   q
+dell   dell
+visivelmente   visivel
+inteligente   intelig
+--   --
+</sent>
+<sent>
+<class> 1 </class>
+<id> 510 </id>
+fim   fim
+note   not
+bom   bom
+dell   dell
+nessa   ness
+nova   nov
+safra   safr
+http   http
+//fb.me/6oqi6c1j2   //fb.me/6oqi6c1j2
+</sent>
+<sent>
+<class> -1 </class>
+<id> 511 </id>
+dois   doi
+anos   ano
+note   not
+estragado   estrag
+agora   agor
+reembolso   reembols
+feito.espero   feito.esper
+dell   dell
+retrate   retrat
+faça   faç
+coisa   cois
+certa.vou   certa.v
+ficar   fic
+aguardando   aguard
+</sent>
+<sent>
+<class> -1 </class>
+<id> 512 </id>
+análise   anális
+dell   dell
+dellnobrasil   dellnobrasil
+dellajuda   dellajud
+dellajudapro   dellajudapr
+demora   dem
+acordo   acord
+competência   compet
+reclame_aqui   reclame_aqu
+entregadificil   entregadificil
+</sent>
+<sent>
+<class> -1 </class>
+<id> 513 </id>
+dellajuda   dellajud
+dellajudapro   dellajudapr
+dell   dell
+dellnobrasil   dellnobrasil
+confundi   confund
+análise   anális
+terapia   terap
+</sent>
+<sent>
+<class> -1 </class>
+<id> 514 </id>
+aí   aí
+not   not
+lixoooooooooo   lixooooooooo
+dell   dell
+bosta   bost
+</sent>
+<sent>
+<class> -1 </class>
+<id> 515 </id>
+bastasse   bast
+celular   celul
+estar   est
+estragado   estrag
+estragou   estrag
+not   not
+</sent>
+<sent>
+<class> -1 </class>
+<id> 516 </id>
+merda   merd
+not   not
+novinho   nov
+ta   ta
+dando   dand
+problema   problem
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 517 </id>
+som   som
+not   not
+dell   dell
+baixinho   baix
+</sent>
+<sent>
+<class> -1 </class>
+<id> 518 </id>
+dellnobrasil   dellnobrasil
+dellajuda   dellajud
+amigos   amig
+segundo   segund
+not   not
+defeituoso   defeit
+vendido   vend
+dell   dell
+10   10
+dias   dia
+tentando   tent
+contato   contat
+enrolado   enrol
+</sent>
+<sent>
+<class> -1 </class>
+<id> 519 </id>
+to   to
+odiando   odi
+tanto   tant
+dell   dell
+nao   nao
+ter   ter
+mandado   mand
+not   not
+ainda   aind
+pq   pq
+poderia   pod
+ter   ter
+votado   vot
+worthitvma   worthitvm
+</sent>
+<sent>
+<class> 1 </class>
+<id> 520 </id>
+feliz   feliz
+not   not
+novo   nov
+dell   dell
+casa   cas
+momor   mom
+https   http
+//www.swarmapp.com/c/1thymj6bpzu   //www.swarmapp.com/c/1thymj6bpzu
+</sent>
+<sent>
+<class> 1 </class>
+<id> 521 </id>
+aqui   aqu
+not   not
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 522 </id>
+comprei   compr
+not   not
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 523 </id>
+not   not
+dell   dell
+presta   prest
+sapoha   sapoh
+ta   ta
+problema   problem
+junta   junt
+</sent>
+<sent>
+<class> 1 </class>
+<id> 524 </id>
+boas   boa
+notícias   notíc
+hj   hj
+</sent>
+<sent>
+<class> -1 </class>
+<id> 525 </id>
+notebook   notebook
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 526 </id>
+not   not
+dell   dell
+eh   eh
+mto   mto
+foda   fod
+</sent>
+<sent>
+<class> 1 </class>
+<id> 527 </id>
+meo   meo
+not   not
+dell   dell
+mol   mol
+rapido   rap
+selok   selok
+rs   rs
+</sent>
+<sent>
+<class> -1 </class>
+<id> 528 </id>
+ñ   ñ
+sei   sei
+porque   porqu
+dell   dell
+nunca   nunc
+fez   fez
+teclados   tecl
+not   not
+luzes   luz
+led   led
+</sent>
+<sent>
+<class> -1 </class>
+<id> 529 </id>
+marcuspessoa   marcuspesso
+uso   uso
+linux   linux
+</sent>
+<sent>
+<class> -1 </class>
+<id> 530 </id>
+to   to
+tomando   tom
+cada   cad
+susto   sust
+simbolo   simbol
+dell   dell
+tela   tel
+not   not
+</sent>
+<sent>
+<class> -1 </class>
+<id> 531 </id>
+linha   linh
+pc   pc
+'s   's
+not   not
+'s   's
+dell   dell
+vostro   vostr
+presta   prest
+</sent>
+<sent>
+<class> 1 </class>
+<id> 532 </id>
+selok   selok
+meo   meo
+not   not
+mol   mol
+rapido   rap
+kk   kk
+dell   dell
+zikaa   zika
+</sent>
+<sent>
+<class> -1 </class>
+<id> 533 </id>
+not   not
+2   2
+meses   mes
+uso   uso
+</sent>
+<sent>
+<class> 1 </class>
+<id> 534 </id>
+nao   nao
+curto   curt
+not   not
+acer   ac
+</sent>
+<sent>
+<class> -1 </class>
+<id> 535 </id>
+cara   car
+</sent>
+<sent>
+<class> 1 </class>
+<id> 536 </id>
+cara   car
+dell   dell
+vem   vem
+amanha   amanh
+arrumar   arrum
+not   not
+</sent>
+<sent>
+<class> -1 </class>
+<id> 537 </id>
+bom   bom
+zica   zic
+tecnológica   tecnológ
+dell   dell
+c   c
+placa   plac
+mãe   mãe
+curto   curt
+</sent>
+<sent>
+<class> 1 </class>
+<id> 538 </id>
+coisa   cois
+ninguém   ninguém
+explica   explic
+</sent>
+<sent>
+<class> -1 </class>
+<id> 539 </id>
+mds   md
+not   not
+dell   dell
+2.900   2.900
+dinheiro   dinh
+junto   junt
+pouco   pouc
+compro   compr
+mac   mac
+</sent>
+<sent>
+<class> 1 </class>
+<id> 540 </id>
+dell   dell
+ainda   aind
+vou   vou
+ter   ter
+not   not
+vcs   vc
+</sent>
+<sent>
+<class> 1 </class>
+<id> 541 </id>
+cheeeeeeeeeeeegoooooooooou   cheeeeeeeeeeeegooooooooo
+not   not
+jesus   jesu
+obrigado   obrig
+dell   dell
+lindo   lind
+</sent>
+<sent>
+<class> -1 </class>
+<id> 542 </id>
+to   to
+pira   pir
+arrancar   arranc
+adesivo   ades
+dell   dell
+not   not
+</sent>
+<sent>
+<class> 1 </class>
+<id> 543 </id>
+adoro   ador
+mexer   mex
+not   not
+dell   dell
+mãe   mãe
+</sent>
+<sent>
+<class> -1 </class>
+<id> 544 </id>
+getting   getting
+spam   sp
+from   from
+dell   dell
+</sent>
+<sent>
+<class> 1 </class>
+<id> 545 </id>
+bateria   bat
+desse   dess
+not   not
+dell   dell
+dura   dur
+pra   pra
+caramba   caramb
+</sent>
+<sent>
+<class> 1 </class>
+<id> 546 </id>
+comprei   compr
+not   not
+dell   dell
+ihuuu   ihuuu
+</sent>
+<sent>
+<class> 1 </class>
+<id> 547 </id>
+macbook   macbook
+melhore   melhor
+not   not
+dell   dell
+deus   deu
+desumano   desum
+bom   bom
+</sent>
+<sent>
+<class> -1 </class>
+<id> 548 </id>
+tela   tel
+not   not
+fico   fic
+preta   pret
+</sent>
+<sent>
+<class> -1 </class>
+<id> 549 </id>
+site   sit
+dell   dell
+pra   pra
+comprar   compr
+not   not
+</sent>
+<sent>
+<class> 1 </class>
+<id> 550 </id>
+quero   quer
+notebook   notebook
+dell   dell
+volta   volt
+pfvr   pfvr
+</sent>
+<sent>
+<class> -1 </class>
+<id> 551 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/14658650/dell-computadores-do-brasil/notebook-vostro-5470-com-problema-que-nao-tem-solucao/   //www.reclameaqui.com.br/14658650/dell-computadores-do-brasil/notebook-vostro-5470-com-problema-que-nao-tem-solucao/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 552 </id>
+dell   dell
+agora   agor
+procom   procom
+reclame   reclam
+aqui   aqu
+adianta   adiant
+fiquem   fiqu
+atentos   atent
+comprem   compr
+presta   prest
+3   3
+dias   dia
+esperando   esper
+retorno   retorn
+</sent>
+<sent>
+<class> -1 </class>
+<id> 553 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+equipamento   equip
+problema   problem
+desde   desd
+aquisição   aquis
+http   http
+//fb.me/1dc0didji   //fb.me/1dc0didj
+</sent>
+<sent>
+<class> -1 </class>
+<id> 554 </id>
+sempre   sempr
+recomendei   recomend
+dell   dell
+quedecepção   quedecepç
+http   http
+//www.reclameaqui.com.br/14610673/dell-computadores-do-brasil/brincando-de-lego/   //www.reclameaqui.com.br/14610673/dell-computadores-do-brasil/brincando-de-lego/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 555 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+tablet   tablet
+dell   dell
+venue   venu
+7   7
+3741-a10   3741-a10
+comprem   compr
+jeito   jeit
+http   http
+//fb.me/6oyapnzov   //fb.me/6oyapnzov
+</sent>
+<sent>
+<class> -1 </class>
+<id> 556 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+inspiron   inspiron
+14z   14z
+5423   5423
+parou   par
+funcionar   funcion
+após   após
+http   http
+//fb.me/6qay6d6sl   //fb.me/6qay6d6sl
+</sent>
+<sent>
+<class> -1 </class>
+<id> 557 </id>
+comprar   compr
+memória   memór
+pro   pro
+notebook   notebook
+impossível   imposs
+jeito   jeit
+reclamar   reclam
+dell   dell
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/14509101/dell-computadores-do-brasil/impossivel-adicionar-memoria-ao-notebook/   //www.reclameaqui.com.br/14509101/dell-computadores-do-brasil/impossivel-adicionar-memoria-ao-notebook/
+dellnobrasil   dellnobrasil
+dell   dell
+dellajuda   dellajud
+</sent>
+<sent>
+<class> -1 </class>
+<id> 558 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+vende   vend
+garantia   garant
+conserta   consert
+equipamento   equip
+http   http
+//fb.me/4rqgibncv   //fb.me/4rqgibncv
+</sent>
+<sent>
+<class> -1 </class>
+<id> 559 </id>
+atualizem   atualiz
+notebooks   notebook
+dell   dell
+windows   window
+10   10
+queima   queim
+placa-mãe   placa-mã
+http   http
+//www.reclameaqui.com.br/14337742/dell-computadores-do-brasil/dell-inspiron-14z-5423-nao-liga-apos-atualizacao-para-windo/   //www.reclameaqui.com.br/14337742/dell-computadores-do-brasil/dell-inspiron-14z-5423-nao-liga-apos-atualizacao-para-windo/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 560 </id>
+dellajuda   dellajud
+agora   agor
+ver   ver
+ranking   ranking
+dell   dell
+reclameaqui   reclameaqu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 561 </id>
+acha   ach
+dell   dell
+notebooks   notebook
+qualidade   qual
+superior   superi
+</sent>
+<sent>
+<class> -1 </class>
+<id> 562 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+preciso   precis
+chave   chav
+ativação   ativ
+dell   dell
+http   http
+//fb.me/4n5nemf6i   //fb.me/4n5nemf6
+</sent>
+<sent>
+<class> -1 </class>
+<id> 563 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/14164806/dell-computadores-do-brasil/suporte-nao-e-confiavel/   //www.reclameaqui.com.br/14164806/dell-computadores-do-brasil/suporte-nao-e-confiavel/
+dell   dell
+</sent>
+<sent>
+<class> -1 </class>
+<id> 564 </id>
+to   to
+iradoo   irado
+</sent>
+<sent>
+<class> -1 </class>
+<id> 565 </id>
+reclame   reclam
+aqui   aqu
+microsoft   microsoft
+windows   window
+10   10
+detonou   deton
+dell   dell
+inspiron   inspiron
+14z   14z
+5680   5680
+http   http
+//fb.me/6i32mavka   //fb.me/6i32mavk
+</sent>
+<sent>
+<class> -1 </class>
+<id> 566 </id>
+novela   novel
+precisa   precis
+ter   ter
+fim   fim
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13747968/dell-computadores-do-brasil/tablet-dell-venue-8-nao-liga-mais-depois-de-carregar/   //www.reclameaqui.com.br/13747968/dell-computadores-do-brasil/tablet-dell-venue-8-nao-liga-mais-depois-de-carregar/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 567 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+garantia   garant
+notebook   notebook
+</sent>
+<sent>
+<class> -1 </class>
+<id> 568 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13680758/dell-computadores-do-brasil/ultrabook-dell-vostro-5470-led-pisca-sem-parar/   //www.reclameaqui.com.br/13680758/dell-computadores-do-brasil/ultrabook-dell-vostro-5470-led-pisca-sem-parar/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 569 </id>
+dell   dell
+barato   barat
+sai   sai
+caro   car
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13629065/dell-computadores-do-brasil/dell-o-quot-barato-quot-que-sai-caro-atencao/   //www.reclameaqui.com.br/13629065/dell-computadores-do-brasil/dell-o-quot-barato-quot-que-sai-caro-atencao/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 570 </id>
+tentando   tent
+recuperar   recuper
+note   not
+dellajuda   dellajud
+ta   ta
+difícil   difícil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13267513/dell-computadores-do-brasil/sem-suporte/   //www.reclameaqui.com.br/13267513/dell-computadores-do-brasil/sem-suporte/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 571 </id>
+eeeu   eeeu
+papapapará   papapap
+gostava   gost
+tanto   tant
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/13243730/dell-computadores-do-brasil/laptop-sem-as-configuracoes-solicitadas-pacote-office-e-mcaf/   //www.reclameaqui.com.br/13243730/dell-computadores-do-brasil/laptop-sem-as-configuracoes-solicitadas-pacote-office-e-mcaf/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 572 </id>
+dell   dell
+descaso   descas
+total   total
+cliente   client
+http   http
+//www.reclameaqui.com.br/12803214/dell-computadores-do-brasil/descaso-com-a-solicitacao-do-cliente/   //www.reclameaqui.com.br/12803214/dell-computadores-do-brasil/descaso-com-a-solicitacao-do-cliente/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 573 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+item   it
+faltante   falt
+compra   compr
+realizada   realiz
+09/02/2015   09/02/2015
+http   http
+//fb.me/3jdgst0jn   //fb.me/3jdgst0jn
+</sent>
+<sent>
+<class> -1 </class>
+<id> 574 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/12744104/dell-computadores-do-brasil/cansada-do-tablet-dell-venue-8/   //www.reclameaqui.com.br/12744104/dell-computadores-do-brasil/cansada-do-tablet-dell-venue-8/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 575 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+nao   nao
+carrega   carreg
+led   led
+fonte   font
+aceso   aces
+verde   verd
+http   http
+//fb.me/1wgtivmha   //fb.me/1wgtivmh
+</sent>
+<sent>
+<class> -1 </class>
+<id> 576 </id>
+velocidade   veloc
+troca   troc
+avançada   avanç
+dell   dell
+substituição   substitu
+garantia   garant
+inversamente   invers
+proporcional   proporc
+pressa   press
+http   http
+//fb.me/7j5j7cdar   //fb.me/7j5j7cd
+</sent>
+<sent>
+<class> -1 </class>
+<id> 577 </id>
+reclameaqui   reclameaqu
+dellajuda   dellajud
+dell   dell
+chamado   cham
+aberto   abert
+previsão   previs
+solução   soluç
+link   link
+permanente   permanent
+imagem   imag
+incorporada   incorpor
+</sent>
+<sent>
+<class> -1 </class>
+<id> 578 </id>
+fácil   fácil
+achar   ach
+reclamações   reclam
+dell   dell
+dellajuda   dellajud
+dellnobrasil   dellnobrasil
+quer   qu
+ter   ter
+dor   dor
+cabeça   cabeç
+</sent>
+<sent>
+<class> -1 </class>
+<id> 579 </id>
+proconrj   proconrj
+reclameaqui   reclameaqu
+chamado   cham
+aberto   abert
+del   del
+desde   desd
+fevereiro   fever
+aguardando   aguard
+terceira   terc
+visita   visit
+8   8
+dias.etiqueta   dias.etiquet
+dell   dell
+fkg8g22   fkg8g22
+</sent>
+<sent>
+<class> -1 </class>
+<id> 580 </id>
+dell   dell
+dellajuda   dellajud
+manter   mant
+contato   contat
+apenas   apen
+dm   dm
+</sent>
+<sent>
+<class> -1 </class>
+<id> 581 </id>
+dutrx   dutrx
+pontofrio_sac   pontofrio_sac
+reclameaqui   reclameaqu
+porcaria   porc
+dell   dell
+trambique   trambiqu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 582 </id>
+desculpa   desculp
+agora   agor
+suporte   suport
+dell   dell
+dellnobrasil   dellnobrasil
+dellajudapro   dellajudapr
+tentaram   tent
+contato   contat
+conseguiram   consegu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 583 </id>
+desculpas   desculp
+ouvi   ouv
+demais   demal
+quero   quer
+solução   soluç
+http   http
+//fb.me/1zdey5kj3   //fb.me/1zdey5kj3
+</sent>
+<sent>
+<class> -1 </class>
+<id> 584 </id>
+senaranon   senaranon
+dell   dell
+reclameaqui   reclameaqu
+problema   problem
+dia   dia
+05.03   05.03
+</sent>
+<sent>
+<class> -1 </class>
+<id> 585 </id>
+dor   dor
+cabeça   cabeç
+chamada   cham
+dell   dell
+putodavida   putodav
+revotado   revot
+serviçopéssimo   serviçopéss
+reclamação   reclam
+reclameaqui   reclameaqu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 586 </id>
+dell   dell
+nega   neg
+atendimento   atend
+clientes   client
+reclame   reclam
+aqui   aqu
+ra   ra
+notícias   notíc
+http   http
+//www.reclameaqui.com.br/noticias/noticias/dell-nega-atendimento-aos-seus-clientes-no-reclame-aqui_1243/   //www.reclameaqui.com.br/noticias/noticias/dell-nega-atendimento-aos-seus-clientes-no-reclame-aqui_1243/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 587 </id>
+sei   sei
+motivo   motiv
+comprar   compr
+dell   dell
+sabia   sab
+problemas   problem
+pensa   pens
+cometer   comet
+erro   err
+</sent>
+<sent>
+<class> -1 </class>
+<id> 588 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+garantia   garant
+3   3
+anos   ano
+q   q
+nao   nao
+funciona   func
+http   http
+//fb.me/3jgofjy8p   //fb.me/3jgofjy8p
+</sent>
+<sent>
+<class> -1 </class>
+<id> 589 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/11992389/dell-computadores-do-brasil/como-perder-clientes/   //www.reclameaqui.com.br/11992389/dell-computadores-do-brasil/como-perder-clientes/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 590 </id>
+caso   cas
+lamentável   lament
+suposta   supost
+grande   grand
+empresa   empr
+lança   lanç
+mercado   merc
+produto   produt
+incompatibilidades   incompatibil
+http   http
+//fb.me/2rafn4mpv   //fb.me/2rafn4mpv
+</sent>
+<sent>
+<class> -1 </class>
+<id> 591 </id>
+dá   dá
+olhada   olh
+nessa   ness
+reclamação   reclam
+contra   contr
+dell   dell
+computadores   comput
+brasil   brasil
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/11929129/dell-computadores-do-brasil/problemas-com-a-bateria/   //www.reclameaqui.com.br/11929129/dell-computadores-do-brasil/problemas-com-a-bateria/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 592 </id>
+ai   ai
+dellnobrasil   dellnobrasil
+vai   vai
+fazer   faz
+respeito   respeit
+via   via
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/11765480/dell-computadores-do-brasil/dell-nao-cumpre-termo-de-garantia-basico/   //www.reclameaqui.com.br/11765480/dell-computadores-do-brasil/dell-nao-cumpre-termo-de-garantia-basico/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 593 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+trinca   trinc
+touch   touch
+screen   screen
+display   display
+tela   tel
+notebook   notebook
+http   http
+//fb.me/7akhl9uc5   //fb.me/7akhl9uc5
+</sent>
+<sent>
+<class> -1 </class>
+<id> 594 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+dell   dell
+inspiron   inspiron
+14   14
+solução   soluç
+problemas   problem
+http   http
+//fb.me/2syeetuf6   //fb.me/2syeetuf6
+</sent>
+<sent>
+<class> -1 </class>
+<id> 595 </id>
+continuo   continu
+batalha   batalh
+dellnobrasil   dellnobrasil
+</sent>
+<sent>
+<class> -1 </class>
+<id> 596 </id>
+reclamação   reclam
+contra   contr
+dell   dell
+reclameaqui   reclameaqu
+http   http
+//www.reclameaqui.com.br/11548179/dell-computadores-do-brasil/diga-nao-a-dell-o-suporte-nao-vale-mais-a-pena-assistencia/   //www.reclameaqui.com.br/11548179/dell-computadores-do-brasil/diga-nao-a-dell-o-suporte-nao-vale-mais-a-pena-assistencia/
+</sent>
+<sent>
+<class> -1 </class>
+<id> 597 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+dell   dell
+nega   neg
+atendimento   atend
+garantia   garant
+http   http
+//fb.me/3y6onrpuw   //fb.me/3y6onrpuw
+</sent>
+<sent>
+<class> -1 </class>
+<id> 598 </id>
+grande   grand
+decepção   decepç
+suporte   suport
+dell   dell
+reclameaqui   reclameaqu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 599 </id>
+reclame   reclam
+aqui   aqu
+dell   dell
+computadores   comput
+brasil   brasil
+dell   dell
+erra   err
+entrega   entreg
+cumpre   cumpr
+prazo   praz
+http   http
+//fb.me/6ow8kupst   //fb.me/6ow8kupst
+</sent>
+<sent>
+<class> -1 </class>
+<id> 600 </id>
+vejam   vej
+comentários   coment
+respeito   respeit
+dell   dell
+reclame   reclam
+aqui.e   aqui.
+vejam   vej
+dell   dell
+verdade   verdad
+</sent>
+<sent>
+<class> -1 </class>
+<id> 601 </id>
+adevogada   adevog
+iasmineeidelwei   iasmineeidelw
+constatou   constat
+dell   dell
+possui   possu
+hábito   hábit
+fazer   faz
+venda   vend
+casada   cas
+diversos   divers
+casos   cas
+reclame   reclam
+aqui   aqu
+</sent>
+<sent>
+<class> -1 </class>
+<id> 602 </id>
+dellnobrasil   dellnobrasil
+dell   dell
+reclameaqui   reclameaqu
+inspiron   inspiron
+15   15
+5547   5547
+defeito   defeit
+vejam   vej
+video   vide
+cuidado   cuid
+https   http
+//www.youtube.com/watch   //www.youtube.com/watch
+v=frpaw-n0lfa   v=frpaw-n0lf
+</sent>
+<sent>
+<class> -1 </class>
+<id> 603 </id>
+dellnobrasil   dellnobrasil
+dell   dell
+reclameaqui   reclameaqu
+comprem   compr
+tela   tel
+manhas   manh
+super   sup
+aquecimento   aquec
+teclado   tecl
+</sent>
+<sent>
+<class> 1 </class>
+<id> 604 </id>
+testamos   test
+dell   dell
+chromebox   chromebox
+</sent>
