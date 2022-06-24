@@ -35,7 +35,8 @@ def main():
         if line.startswith("<sent>"):
             continue
         elif line.startswith("</sent>"):
-            dataList.append(Data(dataClass, dataId, words))
+            dataList.append(Data(dataClass, dataId, words.copy()))
+            words.clear()
         else:
             if line.startswith("<class>"):
                 dataClass = line.split(" ")[1]
@@ -48,16 +49,31 @@ def main():
     wordCountDict = {}
     for data in dataList:
         for word in data.words:
-            if word[0] not in wordCountDict:
-                wordCountDict[word[0]] = 1
+            if word[1] not in wordCountDict:
+                wordCountDict[word[1]] = 1
             else:
-                wordCountDict[word[0]] += 1
+                wordCountDict[word[1]] += 1
 
     k = int(input("Quantos termos serão considerados? (K): "))
     topWords = sorted(wordCountDict.items(),
                       key=lambda x: x[1], reverse=True)[0:k]
 
-    print(topWords)
+    print(dataList[0].words)
+
+    matrixLines = []
+
+    for index, data in enumerate(dataList):
+        matrixLines.append([])
+        for topWord in topWords:
+            for word in data.words:
+                if topWord[0] == word[1]:
+                    matrixLines[index].append(1)
+                    break
+            if len(matrixLines[index]) == 0:
+                matrixLines[index].append(0)
+
+    print(matrixLines)
+
 
 
 if __name__ == '__main__':
