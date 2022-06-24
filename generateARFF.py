@@ -58,8 +58,6 @@ def main():
     topWords = sorted(wordCountDict.items(),
                       key=lambda x: x[1], reverse=True)[0:k]
 
-    print(dataList[0].words)
-
     matrixLines = []
 
     for index, data in enumerate(dataList):
@@ -73,8 +71,23 @@ def main():
                     break
             if not found:
                 matrixLines[index].append(0)
+        matrixLines[index].append(data.dataClass)
 
-    print(matrixLines)
+    relation = "@relation emotionAnalysis\n"
+    attributes = ""
+    for topWord in topWords:
+        attributes += f"@attribute {topWord[0]} numeric\n"
+    attributes += "@attribute class {-1,1}\n"
+    inputData = "@data\n"
+    for line in matrixLines:
+        inputData += ",".join(map(str, line))
+        inputData += "\n"
+
+    with open(path.abspath(
+            path.join(path.dirname(__file__), "generated.arff")), mode="w+", encoding="utf-8") as file:
+        file.write(relation + "\n")
+        file.write(attributes + "\n")
+        file.write(inputData)
 
 
 if __name__ == '__main__':

@@ -1,9 +1,0 @@
-@relation emotionAnalysis
-
-@attribute PALAVRA_1 numeric
-...
-@attribute class {-1,1}
-
-@data
-0,1,0,0,1,-1
-...
