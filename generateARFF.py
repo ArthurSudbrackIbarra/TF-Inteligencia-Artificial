@@ -63,7 +63,7 @@ def main():
                 wordCountDict[word[1]] += 1
 
     # Definindo quantas palavras serão utilizadas para o bag of words.
-    k = int(input("Quantos termos serão considerados? (K): "))
+    k = int(input("\nQuantas palavras serão consideradas para o bag of words? "))
     topWords = sorted(wordCountDict.items(),
                       key=lambda x: x[1], reverse=True)[0:k]
 
@@ -92,13 +92,17 @@ def main():
     for line in matrixLines:
         inputData += ",".join(map(str, line))
         inputData += "\n"
-    with open(path.abspath(
-            path.join(path.dirname(__file__), "train-dataset.arff")), mode="w+", encoding="utf-8") as file:
-        file.write(relation + "\n")
-        file.write(attributes + "\n")
-        file.write(inputData)
+    arffFileContent = f"{relation}\n{attributes}\n{inputData}"
 
-    print("Arquivo gerado com sucesso!")
+    fileName = input("Digite o nome do arquivo ARFF a ser gerado: ")
+    if not fileName.endswith(".arff"):
+        fileName += ".arff"
+
+    with open(path.abspath(
+            path.join(path.dirname(__file__), fileName)), mode="w+", encoding="utf-8") as file:
+        file.write(arffFileContent)
+
+    print("\n-> Arquivo gerado com sucesso <-\n")
 
 
 if __name__ == '__main__':
