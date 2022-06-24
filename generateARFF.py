@@ -1,5 +1,9 @@
+# -*- coding: utf-8 -*-
+
 from os import path
 from re import sub
+
+# Classe que representa um dado, com sua classe, id e palavras.
 
 
 class Data:
@@ -16,20 +20,23 @@ class Data:
         return f"{self.dataClass} {self.dataId} {self.words}"
 
 
+# Função principal do programa.
+
+
 def main():
     FILE_PATH = path.abspath(
-        path.join(path.dirname(__file__), "preprocessado.txt"))
+        path.join(path.dirname(__file__), "preprocessed-data.txt"))
 
     lines = []
     with open(FILE_PATH, mode="r", encoding="utf-8") as file:
         lines = file.readlines()
 
     dataList = []
-
     dataClass = ""
     dataId = ""
     words = []
 
+    # Criando os objetos do tipo 'Data'.
     for line in lines:
         line = line.strip()
         if line.startswith("<sent>"):
@@ -46,6 +53,7 @@ def main():
                 noExtraSpaces = sub(r"\s+", " ", line)
                 words.append(tuple(noExtraSpaces.split(" ")))
 
+    # Contando a aparição de cada palavra nas frases.
     wordCountDict = {}
     for data in dataList:
         for word in data.words:
@@ -54,12 +62,13 @@ def main():
             else:
                 wordCountDict[word[1]] += 1
 
+    # Definindo quantas palavras serão utilizadas para o bag of words.
     k = int(input("Quantos termos serão considerados? (K): "))
     topWords = sorted(wordCountDict.items(),
                       key=lambda x: x[1], reverse=True)[0:k]
 
+    # Atribuindo 0 ou 1 a cada palavra para indicar se ela está ou não na frase.
     matrixLines = []
-
     for index, data in enumerate(dataList):
         matrixLines.append([])
         for topWord in topWords:
@@ -73,6 +82,7 @@ def main():
                 matrixLines[index].append(0)
         matrixLines[index].append(data.dataClass)
 
+    # Gerando o arquivo ARFF.
     relation = "@relation emotionAnalysis\n"
     attributes = ""
     for topWord in topWords:
@@ -82,9 +92,8 @@ def main():
     for line in matrixLines:
         inputData += ",".join(map(str, line))
         inputData += "\n"
-
     with open(path.abspath(
-            path.join(path.dirname(__file__), "generated.arff")), mode="w+", encoding="utf-8") as file:
+            path.join(path.dirname(__file__), "train-dataset.arff")), mode="w+", encoding="utf-8") as file:
         file.write(relation + "\n")
         file.write(attributes + "\n")
         file.write(inputData)
