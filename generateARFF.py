@@ -89,6 +89,8 @@ def main():
         file.write(attributes + "\n")
         file.write(inputData)
 
+    print("Arquivo gerado com sucesso!")
+
 
 if __name__ == '__main__':
     main()
