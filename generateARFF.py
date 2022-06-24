@@ -65,15 +65,16 @@ def main():
     for index, data in enumerate(dataList):
         matrixLines.append([])
         for topWord in topWords:
+            found = False
             for word in data.words:
                 if topWord[0] == word[1]:
                     matrixLines[index].append(1)
+                    found = True
                     break
-            if len(matrixLines[index]) == 0:
+            if not found:
                 matrixLines[index].append(0)
 
     print(matrixLines)
-
 
 
 if __name__ == '__main__':
