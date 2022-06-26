@@ -34,8 +34,6 @@ def main():
     userInformedK = False
     fileName = ""
     userInformedFileName = False
-    trainOrTest = ""
-    userInformedTrainOrTest = False
     for i, argument in enumerate(argv):
         if i == 1:
             k = int(argument)
@@ -43,11 +41,6 @@ def main():
         elif i == 2:
             fileName = argument
             userInformedFileName = True
-        elif i == 3:
-            trainOrTest = argument
-            if trainOrTest != "train" and trainOrTest != "test":
-                trainOrTest = "train"
-            userInformedTrainOrTest = True
 
     lines = []
     with open(FILE_PATH, mode="r", encoding="utf-8") as file:
@@ -95,19 +88,8 @@ def main():
     if not userInformedK:
         k = int(input("\nQuantas palavras serão consideradas para o bag of words? "))
 
-    # Gerar conjunto de treino ou teste?
-    if not userInformedTrainOrTest:
-        trainOrTest = input(
-            "Gerar conjunto de treino ou de teste? [train/test]: ")
-        if trainOrTest not in ["train", "test"]:
-            trainOrTest = "train"
-
     topWords = sorted(wordCountDict.items(),
                       key=lambda x: x[1], reverse=True)[0:k]
-
-    if trainOrTest == "test":
-        shuffle(dataList)
-        dataList = dataList[0:int(len(dataList) * 0.2)]
 
     # Atribuindo 0 ou 1 a cada palavra para indicar se ela está ou não na frase.
     matrixLines = []
@@ -132,7 +114,7 @@ def main():
     attributes += "@attribute class {-1,1}\n"
     inputData = "@data\n"
     for line in matrixLines:
-        if 1 in line or trainOrTest == "test":
+        if 1 in line:
             inputData += ",".join(map(str, line))
             inputData += "\n"
     arffFileContent = f"{relation}\n{attributes}\n{inputData}"
@@ -143,12 +125,11 @@ def main():
     if not fileName.endswith(".arff"):
         fileName += ".arff"
 
-    datasetsDirectory = "train-datasets" if trainOrTest == "train" else "test-datasets"
     with open(path.abspath(
-            path.join(path.dirname(__file__), f"{datasetsDirectory}/{fileName}")), mode="w+", encoding="utf-8") as file:
+            path.join(path.dirname(__file__), f"train-datasets/{fileName}")), mode="w+", encoding="utf-8") as file:
         file.write(arffFileContent)
 
-    print("\n-> Arquivo gerado com sucesso <-\n")
+    print("\n-> Arquivo gerado com sucesso!\n")
 
 
 if __name__ == '__main__':
