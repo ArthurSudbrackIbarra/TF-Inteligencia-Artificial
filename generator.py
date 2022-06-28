@@ -3,7 +3,6 @@
 from os import path
 from sys import argv
 from re import sub
-from random import shuffle
 
 # Classe que representa um dado, com sua classe, id e palavras.
 
@@ -113,23 +112,35 @@ def main():
         attributes += f"@attribute {topWord[0]} {'{0,1}'}\n"
     attributes += "@attribute class {-1,1}\n"
     inputData = "@data\n"
+    testInputData = inputData
     for line in matrixLines:
         if 1 in line:
             inputData += ",".join(map(str, line))
             inputData += "\n"
-    arffFileContent = f"{relation}\n{attributes}\n{inputData}"
+        testInputData += ",".join(map(str, line))
+        testInputData += "\n"
+    trainFileContent = f"{relation}\n{attributes}\n{inputData}"
+    testFileContent = f"{relation}\n{attributes}\n{testInputData}"
 
     if not userInformedFileName:
-        fileName = input("Digite o nome do arquivo ARFF a ser gerado: ")
+        fileName = input("Digite o nome dos arquivos ARFF's a serem gerados: ")
 
     if not fileName.endswith(".arff"):
         fileName += ".arff"
 
     with open(path.abspath(
             path.join(path.dirname(__file__), f"train-datasets/{fileName}")), mode="w+", encoding="utf-8") as file:
-        file.write(arffFileContent)
+        file.write(trainFileContent)
 
-    print("\n-> Arquivo gerado com sucesso!\n")
+    with open(path.abspath(
+            path.join(path.dirname(__file__), f"test-datasets/{fileName}")), mode="w+", encoding="utf-8") as file:
+        file.write(testFileContent)
+
+    print("\nArquivos gerados com sucesso:\n")
+    print(
+        f"train-datasets/{fileName}: Arquivo de treino, não considera linhas totalmente zeradas.")
+    print(
+        f"test-datasets/{fileName}: Arquivo de teste, considera todo o dataset.\n")
 
 
 if __name__ == '__main__':
