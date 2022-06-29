@@ -69,28 +69,32 @@ def main():
                 words.append(tuple(noExtraSpaces.split(" ")))
 
     # Palavras a serem desconsideradas.
-    wordsToDesconsider = ["dell", "notebook",
-                          "not", "nov", "quer", "q", "ter", "ach", "agor", "vai", "dess", "inspiron", "1", "precis", "cas", "%", "'s", "'tou"]
+    wordsToDesconsider = ["dell", "not", "notebook",
+                          "http", "window", "10", "3", "15", "2", "inspiron", "1", "%", "'s", "'tou"]
 
     print(f"\nPalavras sendo desconsideradas: {wordsToDesconsider}")
-
-    # TODO: SEPARAR CONJUNTO DE TREINO DO DE TESTE.
 
     # Embaralhando os dados.
     shuffle(dataList)
 
-    trainDataList = dataList[:int(len(dataList) * 0.7)]
-    testDataList = dataList[int(len(dataList) * 0.7):]
+    # Separando sentenças positivas e negativas.
+    positiveData = list(filter(lambda data: data.dataClass == "1", dataList))
+    negativeData = list(filter(lambda data: data.dataClass == "-1", dataList))
+
+    trainDataList = positiveData[:int(
+        len(positiveData) * 0.7)] + negativeData[:int(len(negativeData) * 0.7)]
+    testDataList = positiveData[int(
+        len(positiveData) * 0.7):] + negativeData[int(len(negativeData) * 0.7):]
 
     # Contando a aparição de cada palavra nas frases no conjunto de treino.
     trainWordCountDict = {}
-    for data in trainDataList:
-        for word in data.words:
-            if word[1] not in wordsToDesconsider:
-                if word[1] not in trainWordCountDict:
-                    trainWordCountDict[word[1]] = 1
+    for trainData in trainDataList:
+        for trainWord in trainData.words:
+            if trainWord[1] not in wordsToDesconsider:
+                if trainWord[1] not in trainWordCountDict:
+                    trainWordCountDict[trainWord[1]] = 1
                 else:
-                    trainWordCountDict[word[1]] += 1
+                    trainWordCountDict[trainWord[1]] += 1
 
     # Definindo quantas palavras serão utilizadas para o bag of words.
     if not userInformedK:
@@ -156,7 +160,6 @@ def main():
     with open(path.abspath(
             path.join(path.dirname(__file__), f"train-datasets/{fileName}")), mode="w+", encoding="utf-8") as file:
         file.write(trainFileContent)
-
     with open(path.abspath(
             path.join(path.dirname(__file__), f"test-datasets/{fileName}")), mode="w+", encoding="utf-8") as file:
         file.write(testFileContent)
